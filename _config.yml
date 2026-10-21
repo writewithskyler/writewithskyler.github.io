@@ -1,3 +1,8 @@
 title: Write With Skyler
-description: Weekly articles on writing and content.
+description: Poetry techniques and writing craft, explained with simple examples.
+url: https://writewithskyler.github.io
 theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
