@@ -6,3 +6,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+header_pages:
+  - articles.md
+  - about.md
