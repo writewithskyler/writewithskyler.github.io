@@ -1,0 +1,53 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,400&family=Playfair+Display:wght@500;700&display=swap");
+
+// DARK AND MOODY: deep navy-black, soft off-white text, serif headings, gold accent
+$base-font-family: "Lora", Georgia, "Times New Roman", serif;
+$base-font-size: 18px;
+$base-line-height: 1.75;
+$spacing-unit: 32px;
+$text-color: #e8e4d9;
+$background-color: #0f1220;
+$brand-color: #d4af6a;
+$grey-color: #9a9aa8;
+$grey-color-light: #2a3050;
+$grey-color-dark: #d4af6a;
+$content-width: 780px;
+
+@import "minima";
+
+h1, h2, h3, h4, h5, h6, .site-title {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+.site-title {
+  letter-spacing: 0.02em;
+}
+.site-header {
+  border-top-width: 3px;
+}
+a:visited {
+  color: $brand-color;
+}
+// Article titles on the home page: cool white instead of gold, gold only on hover
+.post-link,
+.post-link:visited {
+  color: #f4f6fb;
+}
+.post-link:hover {
+  color: $brand-color;
+}
+pre, code {
+  background-color: #1a1f36;
+  border-color: #2a3050;
+}
+blockquote {
+  color: #b8b4a8;
+}
+::selection {
+  background: #d4af6a;
+  color: #0f1220;
+}
