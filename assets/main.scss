@@ -15,7 +15,7 @@ $brand-color: #d4af6a;
 $grey-color: #9a9aa8;
 $grey-color-light: #2a3050;
 $grey-color-dark: #d4af6a;
-$content-width: 780px;
+$content-width: 1040px;
 
 @import "minima";
 
@@ -50,4 +50,62 @@ blockquote {
 ::selection {
   background: #d4af6a;
   color: #0f1220;
+}
+
+// ------------------------------------------------------------
+// DESKTOP AND MOBILE LAYOUT
+// ------------------------------------------------------------
+
+// Articles and pages (About, Articles list): the site frame is wide,
+// but the reading text stays a comfortable width and sits in the middle.
+.post-header,
+.post-content {
+  max-width: 44em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Landing page, phone first (the default): a slightly smaller headline
+.page-content .hero {
+  padding: 24px 0 16px;
+}
+.page-content .hero h1 {
+  font-size: 1.9em;
+}
+
+// Landing page, laptop and desktop (screens 900px wide or more)
+@media (min-width: 900px) {
+  .page-content .hero {
+    padding: 72px 0 40px;
+  }
+  .page-content .hero h1 {
+    font-size: 2.9em;
+    max-width: 17em;
+  }
+  .page-content .hero p {
+    font-size: 1.2em;
+    max-width: 36em;
+  }
+  .page-content .btn {
+    padding: 14px 34px;
+  }
+  // Latest articles: three cards side by side
+  .landing-section .post-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .landing-section .post-list > li {
+    margin-bottom: 0;
+    padding: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.35);
+    border-radius: 12px;
+  }
+  .landing-section .post-list .post-link {
+    font-size: 1.15em;
+    line-height: 1.4;
+  }
+  .landing-section .post-list h3 {
+    margin: 8px 0 0;
+  }
 }
