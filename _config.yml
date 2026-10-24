@@ -9,3 +9,4 @@ plugins:
 header_pages:
   - articles.md
   - about.md
+  google_analytics: G-LLZMLFQFM7
