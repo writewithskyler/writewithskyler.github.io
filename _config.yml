@@ -8,5 +8,10 @@ plugins:
   - jekyll-feed
 header_pages:
   - articles.md
+  - poems.md
   - about.md
 google_analytics: G-LLZMLFQFM7
+collections:
+  poems:
+    output: true
+    permalink: /poems/:name/
