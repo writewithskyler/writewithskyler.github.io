@@ -7,6 +7,8 @@ description: "Original poems by Skyler."
 
 ## The Phantom Sound – an Inner Voice That Chains You {#phantom-sound}
 
+![A man in a dark hoodie stands with his back turned in a misty forest, facing a faint shadowy figure in the distance.](/assets/phantom-sound.jpg)
+
 My head is stuffed with mud,<br>
 My eyes are swollen and wrinkled,<br>
 While I run in my mind nonstop.<br>
