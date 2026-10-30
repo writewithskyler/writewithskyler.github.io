@@ -107,3 +107,9 @@ blockquote {
     margin: 8px 0 0;
   }
 }
+// Smaller titles on phones
+@media (max-width: 600px) {
+  .post-title { font-size: 28px; line-height: 1.2; letter-spacing: 0; }
+  .post-content h2 { font-size: 23px; }
+  .post-content h3 { font-size: 19px; line-height: 1.35; }
+}
