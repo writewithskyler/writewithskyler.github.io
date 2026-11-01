@@ -113,3 +113,8 @@ blockquote {
   .post-content h2 { font-size: 23px; }
   .post-content h3 { font-size: 19px; line-height: 1.35; }
 }
+@media (max-width: 600px) {
+  .post-content table { font-size: 14px; }
+  .post-content table th, .post-content table td { padding: 8px 5px; }
+  .post-content table td + td, .post-content table th + th { overflow-wrap: anywhere; }
+}
