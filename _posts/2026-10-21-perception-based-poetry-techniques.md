@@ -34,7 +34,7 @@ Introduced by John Keats in 1817.
 
 Negative capability is the poet’s ability to remain in uncertainty, ambiguity, and mystery without forcing a clear explanation or logical conclusion. This allows uncertainty to remain without resolution.
 
-Example: “I gave my all to push a little more, I finally escaped, or so I thought”. – The Phantom Sound.
+Example: “I gave my all to push a little more, I finally escaped, or so I thought”. – [The Phantom Sound](/poems/the-phantom-sound/)
 
 ### 2. Objective Correlative
 
@@ -52,13 +52,13 @@ Introduced by Viktor Shklovsky in 1917.
 
 Defamiliarization means making familiar things in unfamiliar or strange ways. It portrays a part of yourself, acting independently. Jamais vu is a term that means feeling unfamiliar with familiar things in real life, but defamiliarization intentionally makes familiar things unfamiliar in poetry.
 
-Example: “I saw it in the mirror; devoured and thrashed.” – The Eternal Sunshine.
+Example: “I saw it in the mirror; devoured and thrashed.” – [The Eternal Sunshine](/poems/the-eternal-sunshine/)
 
 ### 4. Perceptual Reversal
 
 Perceptual reversal is the technique of shifting an observer’s perspective into being observed, so reality is seen differently. The poem may reverse subject and object, internal and external experience, or expected viewpoint. When the subject is being observed, the poem does not explain the situation but shows what observes it. The authority shifts from subject to object.
 
-Example: “The phantom sound that imprisoned me long ago” – The Phantom Sound.
+Example: “The phantom sound that imprisoned me long ago” – [The Phantom Sound](/poems/the-phantom-sound/)
 
 ### 5. Dissociation of Thought and Body
 
