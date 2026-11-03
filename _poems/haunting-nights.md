@@ -24,3 +24,5 @@ Bit my tongue, punched my face<br>
 Screaming at the mirror, “Go to sleep!”<br>
 It’s a daily task I need to do<br>
 I’m so sleepy, but what can I do?
+
+*Want to learn the techniques behind poems like this? Read [What Is a Poetic Technique?]({% post_url 2026-11-01-what-is-a-poetic-technique %}).*
