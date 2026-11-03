@@ -36,3 +36,5 @@ I couldn’t hold back from saying,<br>
 “Come to me, and hold me tight.<br>
 You can never escape from my string.<br>
 And I, the devil, will be watching over you.”
+
+*Want to learn the techniques behind poems like this? Read [What Is a Poetic Technique?]({% post_url 2026-11-01-what-is-a-poetic-technique %}).*
