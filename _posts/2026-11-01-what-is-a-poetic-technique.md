@@ -82,3 +82,9 @@ A poetic technique is not always something a poet chooses intentionally or plans
 Furthermore, technique is about how this process carries across the timeline of the whole piece, shifting fluidly from the first stanza, to the second stanza, and through to the end of the poem. The technique isn't just an artificial blueprint; it is the organic process that brings the poet's inner world to life on the page, letting the structure grow naturally out of the emotion itself.
 
 Ultimately, a poetic technique is the big plan and structure of a whole poem. It is not just a tool for one line. It is a deep way of storytelling that controls the theme, rhythm, layout, and choice of words. It shows exactly how a situation felt to the poet by mixing different points of view and blending the past, present, and future. This process is often automatic. When a poet wants to show a feeling, their mind naturally creates a structure across the stanzas without even planning it. In the end, technique connects everything so readers can understand the real meaning beyond the words.
+
+**Read next:**
+
+- [Perception-based poetry techniques]({% post_url 2026-10-21-perception-based-poetry-techniques %})
+- [Perception-based vs stream of consciousness in poetry]({% post_url 2026-10-21-perception-based-vs-stream-of-consciousness-in-poetry %})
+- [Defamiliarization and dissociation of sensibility in poetry]({% post_url 2026-10-21-defamiliarization-and-dissociation-of-sensibility-in-poetry %})
