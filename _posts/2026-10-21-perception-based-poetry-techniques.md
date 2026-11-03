@@ -64,7 +64,7 @@ Example: “The phantom sound that imprisoned me long ago” – The Phantom Sou
 
 Dissociation of Sensibility splits body feelings from what you think in your head. The mind and the body feelings work separately or delay. When you want your work to be done but the bed feels good, here they don’t follow a decision. Readers connect it with the morning paralysis. Therefore, your feelings are not fused together.
 
-Example: My feet running back to someone that my brain resists seeing.
+Example: "My feet running back to someone that my brain resists seeing."
 
 ## Why These Techniques Make Poetry More Powerful
 
