@@ -30,3 +30,5 @@ Devoured and thrashed<br>
 “Ring… Ring…” The doorbell rang<br>
 I opened the door<br>
 There was my death, the eternal sunshine!
+
+*Want to learn the techniques behind poems like this? Read [What Is a Poetic Technique?]({% post_url 2026-11-01-what-is-a-poetic-technique %}).*
