@@ -30,3 +30,5 @@ Faster than I could, as if a pack of wolves<br>
 Were chasing me to devour my body.<br>
 I gave my all to push a little more,<br>
 I finally escaped, or so I thought.
+
+*Want to learn the techniques behind poems like this? Read [What Is a Poetic Technique?]({% post_url 2026-11-01-what-is-a-poetic-technique %}).*
