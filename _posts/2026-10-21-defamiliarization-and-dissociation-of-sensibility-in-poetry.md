@@ -54,3 +54,7 @@ Desk grips wrists. Sweat beads. Deadline blinks.
 ## Conclusion
 
 Defamiliarization and Dissociation of Sensibility are a strong duo that changes a flat description into raw perceptual experience. Defamiliarization opens the familiar world, shatters the automatization so readers notice specific details that are usually skipped. Dissociation of sensibility then splits the inner self into body feelings and head thoughts. It causes a familiar paralysis where senses and logic refuse to unite. Together they trap readers in human messiness. The outside reality becomes alien while inside responses fragments, making every poem pulse recognize rather than just understand it. Beginners can start small—short, rhyme-free lines that hit hard and linger forever.
+
+**Read next:**
+
+- [What Is a Poetic Technique?]({% post_url 2026-11-01-what-is-a-poetic-technique %})
