@@ -29,3 +29,7 @@ The poet uses the raw material from stream of consciousness in perception to twi
 ## Conclusion
 
 Perception-based and stream of consciousness can be complex methods, but they talk about something very deep in human nature and human feelings. Exploring these methods can be very useful for people who are interested in poetry. However, regardless of the advanced technique, expressing our feelings and thoughts through poetry brings out the authenticity of an artist.
+
+**Read next:**
+
+- [What Is a Poetic Technique?]({% post_url 2026-11-01-what-is-a-poetic-technique %})
