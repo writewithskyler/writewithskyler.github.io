@@ -2,7 +2,7 @@
 layout: page
 title: Poems
 permalink: /poems/
-description: "Original poems by Skyler."
+description: "Original poems by Skyler that put raw emotion through perspective, from romance and dark themes to moments of happiness."
 ---
 <style>
 .poem-list { list-style: none; margin: 0; padding: 0; }
