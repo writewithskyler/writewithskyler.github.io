@@ -2,7 +2,7 @@
 layout: page
 title: "The Eternal Sunshine"
 date: 2026-10-29
-description: "The Eternal Sunshine, an original poem by Skyler."
+description: "A poem about the pleasures of toxic habits and the heavy price that comes with them. Read it and see what you give up."
 image: /assets/the-eternal-sunshine.jpg
 image_alt: "A man stands in a smoky, golden-lit bedroom between a cracked mirror holding a glowing reflection and an open doorway where a glowing figure stands."
 ---
