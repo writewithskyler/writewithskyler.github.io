@@ -115,6 +115,20 @@ description: "Learn advanced poetry techniques with simple explanations and exam
   <p><a href="{{ '/articles/' | relative_url }}">See all articles &rarr;</a></p>
 </div>
 
+<div class="landing-section">
+  <h2>Latest poems</h2>
+  <ul class="post-list">
+  {% assign latest_poems = site.poems | sort: "date" | reverse %}
+  {% for poem in latest_poems limit:3 %}
+    <li>
+      <span class="post-meta">{{ poem.date | date: "%b %-d, %Y" }}</span>
+      <h3><a class="post-link" href="{{ poem.url | relative_url }}">{{ poem.title | escape }}</a></h3>
+    </li>
+  {% endfor %}
+  </ul>
+  <p><a href="{{ '/poems/' | relative_url }}">See all poems &rarr;</a></p>
+</div>
+
 <div class="closing">
   <h2>Ready to try a new technique?</h2>
   <p>Read the articles and find techniques to apply in your poetry right now!</p>
