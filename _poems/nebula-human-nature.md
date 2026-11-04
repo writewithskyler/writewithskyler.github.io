@@ -2,7 +2,7 @@
 layout: page
 title: "Nebula – Human Nature"
 date: 2026-10-29 12:30:00 +0530
-description: "Nebula – Human Nature, an original poem by Skyler."
+description: "A poem in the voice of a devil who says he never corrupted anyone, only revealed the darkness already in human nature."
 image: /assets/nebula-the-human-nature.jpg
 image_alt: "A dark nebula collage: a shadowy figure with glowing eyes looms over a man aiming a gun, a woman coiled by a snake, a man in a top hat holding red wine, and a girl holding a white rabbit. Text on the image: I did not corrupt them. I only revealed what was already there."
 ---
