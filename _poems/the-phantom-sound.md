@@ -2,7 +2,7 @@
 layout: page
 title: "The Phantom Sound – an Inner Voice That Chains You"
 date: 2026-10-28
-description: "An original poem about an inner voice that chains you."
+description: "A poem about the inner voice in everyone's mind that creates inner conflict, and why we must be aware of it and fight back."
 image: /assets/phantom-sound.jpg
 image_alt: "A man in a dark hoodie stands with his back turned in a misty forest, facing a faint shadowy figure in the distance."
 ---
