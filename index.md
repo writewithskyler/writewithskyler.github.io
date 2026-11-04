@@ -16,10 +16,10 @@ description: "Learn advanced poetry techniques with simple explanations and exam
 .carousel.is-js .carousel-track { display: flex; transition: transform 0.8s ease; }
 .slide { box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; min-height: 380px; padding: 56px 48px 76px; }
 .carousel.is-js .slide { flex: 0 0 100%; }
-.slide-articles { background: radial-gradient(ellipse at 85% 15%, rgba(212, 175, 106, 0.22), transparent 55%), linear-gradient(135deg, #171c38, #0f1220); }
-.slide-poems { background: linear-gradient(90deg, rgba(15, 18, 32, 0.95) 35%, rgba(15, 18, 32, 0.4)), url("{{ '/assets/phantom-sound.jpg' | relative_url }}") center / cover no-repeat; }
+.slide-articles { background: linear-gradient(90deg, rgba(15, 18, 32, 0.8) 0%, rgba(15, 18, 32, 0.6) 45%, rgba(15, 18, 32, 0) 75%), url("{{ '/assets/hero-articles.jpg' | relative_url }}") right center / cover no-repeat #0f1220; }
+.slide-poems { background: linear-gradient(90deg, rgba(15, 18, 32, 0.8) 0%, rgba(15, 18, 32, 0.6) 45%, rgba(15, 18, 32, 0) 75%), url("{{ '/assets/hero-poems.jpg' | relative_url }}") right center / cover no-repeat #0f1220; }
 .slide h1, .slide h2 { margin: 0 0 16px; max-width: 17em; font-size: 2.1em; line-height: 1.2; }
-.slide p { margin: 0 0 8px; max-width: 34em; font-size: 1.1em; opacity: 0.9; }
+.slide p { margin: 0 0 8px; max-width: 30em; font-size: 1.1em; opacity: 0.9; }
 .slide .btn { align-self: flex-start; }
 .carousel-controls { position: absolute; left: 0; right: 0; bottom: 16px; display: flex; justify-content: center; align-items: center; gap: 6px; }
 .carousel-controls button { cursor: pointer; }
@@ -30,6 +30,9 @@ description: "Learn advanced poetry techniques with simple explanations and exam
 @media (max-width: 600px) {
   .slide { min-height: 430px; padding: 40px 22px 76px; }
   .slide h1, .slide h2 { font-size: 1.6em; }
+  .slide-articles, .slide-poems { background-position: 78% center; }
+  .slide-articles { background-image: linear-gradient(rgba(15, 18, 32, 0.72), rgba(15, 18, 32, 0.72)), url("{{ '/assets/hero-articles.jpg' | relative_url }}"); }
+  .slide-poems { background-image: linear-gradient(rgba(15, 18, 32, 0.72), rgba(15, 18, 32, 0.72)), url("{{ '/assets/hero-poems.jpg' | relative_url }}"); }
 }
 @media (prefers-reduced-motion: reduce) {
   .carousel.is-js .carousel-track { transition: none; }
