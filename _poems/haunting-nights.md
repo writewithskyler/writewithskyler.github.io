@@ -2,7 +2,7 @@
 layout: page
 title: "Haunting Nights"
 date: 2026-10-29 12:55:00 +0530
-description: "Haunting Nights, an original poem by Skyler."
+description: "A poem about a calm evening that turns into a sleepless night of overthinking, and the weight it leaves behind."
 image: /assets/haunting-nights.jpg
 image_alt: "A person sits on the edge of a bed at night with their hands on their head, beside a clock showing 3:15, a water bottle and scattered pills, with a full moon in the window."
 ---
