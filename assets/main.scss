@@ -121,3 +121,7 @@ blockquote {
 @font-face { font-family: "Lora"; font-style: normal; font-weight: 400; font-display: block; src: url("/assets/lora-400.woff2") format("woff2"); }
 @font-face { font-family: "Lora"; font-style: italic; font-weight: 400; font-display: block; src: url("/assets/lora-400-italic.woff2") format("woff2"); }
 @font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 700; font-display: block; src: url("/assets/playfair-700.woff2") format("woff2"); }
+@media (min-width: 1000px) {
+  .wrapper { max-width: 1200px; }
+  .page-content .post-header, .page-content .post-content { max-width: 50em; }
+}
