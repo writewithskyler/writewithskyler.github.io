@@ -15,3 +15,8 @@ collections:
   poems:
     output: true
     permalink: /poems/:name/
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/social-share.jpg
