@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-banner: /assets/hero-articles.jpg
+banner: /assets/page-about.jpg
 tagline: "The poet behind the techniques."
 permalink: /about/
 description: "Learn advanced poetry techniques and apply them in your own poems. About Write With Skyler and the poet behind it."
