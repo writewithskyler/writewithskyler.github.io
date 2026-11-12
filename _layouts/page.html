@@ -2,14 +2,14 @@
 layout: default
 ---
 <style>
-.page-banner { position: relative; display: flex; flex-direction: column; justify-content: center; min-height: 320px; box-sizing: border-box; margin: 8px 0 28px; padding: 40px; border-radius: 16px; overflow: hidden; border: 1px solid rgba(212, 175, 106, 0.25); background: linear-gradient(90deg, rgba(15, 18, 32, 0.9) 0%, rgba(15, 18, 32, 0.78) 55%, rgba(15, 18, 32, 0.65) 100%), var(--banner) var(--pos, right center) / cover no-repeat #0f1220; }
+.page-banner { position: relative; display: flex; flex-direction: column; justify-content: center; min-height: 270px; box-sizing: border-box; margin: 8px 0 28px; padding: 40px; border-radius: 16px; overflow: hidden; border: 1px solid rgba(212, 175, 106, 0.25); background: linear-gradient(90deg, rgba(15, 18, 32, 0.85) 0%, rgba(15, 18, 32, 0.68) 55%, rgba(15, 18, 32, 0.5) 100%), var(--banner) center / cover no-repeat #0f1220; }
 .page-banner .post-title { margin: 0 0 8px; }
 .page-banner p { margin: 0; max-width: 30em; opacity: 0.9; }
-@media (max-width: 600px) { .page-banner { min-height: 220px; padding: 28px 22px; background: linear-gradient(rgba(15, 18, 32, 0.82), rgba(15, 18, 32, 0.82)), var(--banner) 78% center / cover no-repeat #0f1220; } }
+@media (max-width: 600px) { .page-banner { min-height: 200px; padding: 28px 22px; background: linear-gradient(rgba(15, 18, 32, 0.75), rgba(15, 18, 32, 0.75)), var(--banner) 78% center / cover no-repeat #0f1220; } }
 </style>
 <article class="post">
   {% if page.banner %}
-  <header class="post-header page-banner" style="--banner: url('{{ page.banner | relative_url }}'); --pos: {{ page.banner_pos | default: 'right center' }}">
+  <header class="post-header page-banner" style="--banner: url('{{ page.banner | relative_url }}')">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     {% if page.tagline %}<p>{{ page.tagline }}</p>{% endif %}
   </header>
