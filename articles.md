@@ -2,7 +2,7 @@
 layout: page
 title: Articles
 banner: /assets/page-articles.jpg
-tagline: "Poetry techniques explained in simple words, with examples from my own poems."
+tagline: "Things behind poetry"
 permalink: /articles/
 description: "All articles on advanced poetry techniques and the craft of writing poetry."
 ---
