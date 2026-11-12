@@ -2,7 +2,7 @@
 layout: page
 title: Articles
 banner: /assets/page-articles.jpg
-tagline: "Things behind poetry"
+tagline: "Things behind every poem"
 permalink: /articles/
 description: "All articles on advanced poetry techniques and the craft of writing poetry."
 ---
