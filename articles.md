@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles
-banner: /assets/hero-articles.jpg
+banner: /assets/page-articles.jpg
 tagline: "Poetry techniques explained in simple words, with examples from my own poems."
 permalink: /articles/
 description: "All articles on advanced poetry techniques and the craft of writing poetry."
