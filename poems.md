@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Poems
+banner: /assets/hero-poems.jpg
+tagline: "Original poems that put raw emotion through perspective."
 permalink: /poems/
 description: "Original poems by Skyler that put raw emotion through perspective, from romance and dark themes to moments of happiness."
 ---
