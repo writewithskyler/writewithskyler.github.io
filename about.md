@@ -10,3 +10,17 @@ Welcome to Write With Skyler. Here, you can read and learn about advanced poetry
 I'm Skyler, a poet and an English Literature graduate. I explain each technique in simple words, with examples from my own poems.
 
 [Read the articles](/) and find techniques to apply in your poetry right now!
+<style>
+.btn { display: inline-block; margin: 8px 8px 8px 0; padding: 10px 24px; border-radius: 999px; background: #d4af6a; color: #0f1220 !important; font-weight: 600; text-decoration: none !important; }
+</style>
+
+## Explore
+
+<a class="btn" href="{{ '/poems/' | relative_url }}">Read poems</a>
+<a class="btn" href="{{ '/articles/' | relative_url }}">Explore articles</a>
+
+## Connect
+
+- [Medium](https://medium.com/@imskyler)
+- [LinkedIn](https://www.linkedin.com/in/contentsatnambi/)
+- Email: [skylerriyaz@gmail.com](mailto:skylerriyaz@gmail.com)
