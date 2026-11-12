@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<style>
+.page-banner { position: relative; margin: 8px 0 28px; padding: 64px 40px; border-radius: 16px; overflow: hidden; border: 1px solid rgba(212, 175, 106, 0.25); background: linear-gradient(90deg, rgba(15, 18, 32, 0.85) 0%, rgba(15, 18, 32, 0.55) 55%, rgba(15, 18, 32, 0.15) 100%), var(--banner) right center / cover no-repeat #0f1220; }
+.page-banner .post-title { margin: 0 0 8px; }
+.page-banner p { margin: 0; max-width: 30em; opacity: 0.9; }
+@media (max-width: 600px) { .page-banner { padding: 40px 22px; background: linear-gradient(rgba(15, 18, 32, 0.72), rgba(15, 18, 32, 0.72)), var(--banner) 78% center / cover no-repeat #0f1220; } }
+</style>
+<article class="post">
+  {% if page.banner %}
+  <header class="post-header page-banner" style="--banner: url('{{ page.banner | relative_url }}')">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% if page.tagline %}<p>{{ page.tagline }}</p>{% endif %}
+  </header>
+  {% else %}
+  <header class="post-header"><h1 class="post-title">{{ page.title | escape }}</h1></header>
+  {% endif %}
+  <div class="post-content">{{ content }}</div>
+</article>
