@@ -206,4 +206,3 @@ Nothing is wrong, and nothing is right. Whatever a poet decides to write is poet
 So start small. One feeling and a few lines, and you have already begun. Write your first line today.
 
 When you're ready for more, read [What Is a Poetic Technique?]({{ "/2026/11/01/what-is-a-poetic-technique.html" | relative_url }}) to learn the methods poets use to shape a feeling on the page.
-- [Easy Ways to Write Good Poetry for Beginners]({% post_url 2026-11-12-easy-ways-to-write-good-poetry-for-beginners %})
