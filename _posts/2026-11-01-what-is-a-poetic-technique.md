@@ -88,3 +88,4 @@ Ultimately, a poetic technique is the big plan and structure of a whole poem. It
 - [Perception-based poetry techniques]({% post_url 2026-10-21-perception-based-poetry-techniques %})
 - [Perception-based vs stream of consciousness in poetry]({% post_url 2026-10-21-perception-based-vs-stream-of-consciousness-in-poetry %})
 - [Defamiliarization and dissociation of sensibility in poetry]({% post_url 2026-10-21-defamiliarization-and-dissociation-of-sensibility-in-poetry %})
+- [Easy Ways to Write Good Poetry for Beginners]({% post_url 2026-11-12-easy-ways-to-write-good-poetry-for-beginners %})
