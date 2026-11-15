@@ -1,0 +1,40 @@
+<style>
+.post-subtitle { margin: 0 0 10px; font-size: 1.1em; line-height: 1.5; opacity: .85; }
+.more-reading { margin-top: 48px; padding: 22px 22px 14px; border: 1px solid rgba(212,175,106,.28); border-top: 3px solid #d4af6a; border-radius: 12px; background: #141831; }
+.more-reading h2 { margin: 0 0 6px; font-size: .78em; letter-spacing: .14em; text-transform: uppercase; color: #d4af6a; }
+.more-reading ul { list-style: none; margin: 0 0 16px; padding: 0; }
+.more-reading li { margin: 0; border-bottom: 1px solid rgba(212,175,106,.15); }
+.more-reading li:last-child { border-bottom: 0; }
+.more-reading li a { display: block; padding: 10px 0; font-size: .95em; line-height: 1.4; color: #f4f6fb; }
+.more-reading li a:hover { color: #d4af6a; }
+.more-reading .all { font-size: .9em; }
+@media (min-width: 1000px) {
+  .reading-layout { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 48px; align-items: start; }
+  .reading-layout .post-header, .reading-layout .post-content { max-width: none; margin-left: 0; margin-right: 0; }
+  .more-reading { margin-top: 0; position: sticky; top: 24px; }
+}
+</style>
+<aside class="more-reading" aria-label="More to read">
+  <h2>More articles</h2>
+  <ul>
+  {% assign shown = 0 %}
+  {% for p in site.posts %}
+    {% if p.url != page.url and shown < 6 %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
+    {% assign shown = shown | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+  <h2>Poems</h2>
+  <ul>
+  {% assign poems_sorted = site.poems | sort: "date" | reverse %}
+  {% assign shown = 0 %}
+  {% for p in poems_sorted %}
+    {% if p.url != page.url and shown < 5 %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
+    {% assign shown = shown | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+  <a class="all" href="{{ '/articles/' | relative_url }}">See all articles &rarr;</a>
+</aside>
