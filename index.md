@@ -136,7 +136,7 @@ description: "Learn advanced poetry techniques with simple explanations and exam
     <li class="card-poem">
       <span class="tag"><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor" stroke="none"><path d="M11 11C9.5 7 5.5 4 1.5 4.5 1.5 8 3 12 8 13.5 9.5 13.5 10.5 12.5 11 11z"/><path d="M11 13.5C8.5 14.5 5.8 16 6.5 19.5 9 19.5 11 17.5 11 13.5z" opacity=".5"/><g transform="translate(24 0) scale(-1 1)"><path d="M11 11C9.5 7 5.5 4 1.5 4.5 1.5 8 3 12 8 13.5 9.5 13.5 10.5 12.5 11 11z"/><path d="M11 13.5C8.5 14.5 5.8 16 6.5 19.5 9 19.5 11 17.5 11 13.5z" opacity=".5"/></g></g></svg>Poem</span>
       <h3><a class="post-link" href="{{ poem.url | relative_url }}">{{ poem.title | escape }}</a></h3>
-      <p class="excerpt">{{ poem.description | strip_html | strip | truncate: 130 }}</p>
+      <p class="excerpt">{{ poem.subtitle | default: poem.description | strip_html | strip | truncate: 130 }}</p>
     </li>
   {% endfor %}
   </ul>
