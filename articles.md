@@ -6,6 +6,8 @@ tagline: "Things behind every poem"
 permalink: /articles/
 description: "All articles on advanced poetry techniques and the craft of writing poetry."
 ---
+.article-grid .post-link { font-size: 20px; line-height: 1.35; }
+@media (max-width: 600px) { .article-grid .post-link { font-size: 18px; } }
 <style>
 .page-content .post-header, .page-content .post-content { max-width: none; }
 .article-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
