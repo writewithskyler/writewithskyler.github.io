@@ -14,28 +14,42 @@
   .more-reading { margin-top: 0; position: sticky; top: 24px; }
 }
 </style>
+<style>
+.more-reading .block { margin-bottom: 22px; }
+.more-reading .block:last-child { margin-bottom: 0; }
+.more-reading .all { display: block; }
+</style>
+{% capture articles_block %}
+  <div class="block">
+    <h2>Articles</h2>
+    <ul>
+    {% assign shown = 0 %}
+    {% for p in site.posts %}
+      {% if p.url != page.url and shown < 3 %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
+      {% assign shown = shown | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+    <a class="all" href="{{ '/articles/' | relative_url }}" aria-label="See more articles">See more &rarr;</a>
+  </div>
+{% endcapture %}
+{% capture poems_block %}
+  <div class="block">
+    <h2>Poems</h2>
+    <ul>
+    {% assign poems_sorted = site.poems | sort: "date" | reverse %}
+    {% assign shown = 0 %}
+    {% for p in poems_sorted %}
+      {% if p.url != page.url and shown < 3 %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
+      {% assign shown = shown | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+    <a class="all" href="{{ '/poems/' | relative_url }}" aria-label="See more poems">See more &rarr;</a>
+  </div>
+{% endcapture %}
 <aside class="more-reading" aria-label="More to read">
-  <h2>Articles</h2>
-  <ul>
-  {% assign shown = 0 %}
-  {% for p in site.posts %}
-    {% if p.url != page.url and shown < 3 %}
-    <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
-    {% assign shown = shown | plus: 1 %}
-    {% endif %}
-  {% endfor %}
-  </ul>
-  <a class="all" style="display:block;margin-bottom:22px" href="{{ '/articles/' | relative_url }}" aria-label="See more articles">See more &rarr;</a>
-  <h2>Poems</h2>
-  <ul>
-  {% assign poems_sorted = site.poems | sort: "date" | reverse %}
-  {% assign shown = 0 %}
-  {% for p in poems_sorted %}
-    {% if p.url != page.url and shown < 3 %}
-    <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
-    {% assign shown = shown | plus: 1 %}
-    {% endif %}
-  {% endfor %}
-  </ul>
-  <a class="all" style="display:block;margin-bottom:6px" href="{{ '/poems/' | relative_url }}" aria-label="See more poems">See more &rarr;</a>
+{% if page.collection == "poems" %}{{ poems_block }}{{ articles_block }}{% else %}{{ articles_block }}{{ poems_block }}{% endif %}
 </aside>
