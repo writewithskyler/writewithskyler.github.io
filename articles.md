@@ -27,6 +27,7 @@ description: "All articles on advanced poetry techniques and the craft of writin
   <li>
     <span class="tag"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 21l3.5-1 11-11-2.5-2.5-11 11z"/><path d="M14.5 6.5L17 9"/></svg>Article</span>
     <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-    <p class="excerpt">{{ post.subtitle | default: post.description | default: post.excerpt | strip_html | strip | truncate: 130 }}</p>  </li>
+    <p class="excerpt">{{ post.subtitle | default: post.description | default: post.excerpt | strip_html | strip | truncate: 130 }}</p>  
+  </li>
 {% endfor %}
 </ul>
