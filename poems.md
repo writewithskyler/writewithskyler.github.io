@@ -27,7 +27,7 @@ description: "Original poems by Skyler that put raw emotion through perspective,
   <li>
     <span class="tag">{{ butterfly }}Poem</span>
     <h3><a class="post-link" href="{{ poem.url | relative_url }}">{{ poem.title | escape }}</a></h3>
-    <p class="excerpt">{{ poem.description | strip_html | strip | truncate: 130 }}</p>
+    <p class="excerpt">{{ poem.subtitle | default: poem.description | strip_html | strip | truncate: 130 }}</p>
   </li>
 {% endfor %}
 </ul>
