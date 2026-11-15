@@ -105,7 +105,6 @@ description: "Learn advanced poetry techniques with simple explanations and exam
 .landing-section .post-list > li.card-article { padding: 22px; border: 1px solid rgba(128,128,128,.28); border-top: 3px solid #d4af6a; border-radius: 12px; background: #141831; }
 .landing-section .post-list > li.card-poem { padding: 40px 24px 26px; text-align: center; border: 1px solid rgba(212,175,106,.3); border-radius: 90px 90px 14px 14px; background: radial-gradient(ellipse at 50% 0%, rgba(212,175,106,.16), rgba(212,175,106,0) 70%), #121629; }
 .landing-section .post-list > li.card-poem .tag { justify-content: center; }
-.landing-section .post-list > li.card-poem .excerpt { font-style: italic; }
 @media (prefers-reduced-motion: reduce) { .card.feature { transition: none; } .card.feature:hover { transform: none; } }
 </style>
 <div class="landing-section">
