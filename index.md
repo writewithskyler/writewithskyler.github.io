@@ -93,42 +93,56 @@ description: "Learn advanced poetry techniques with simple explanations and exam
 })();
 </script>
 
+<style>
+.card.feature { position: relative; padding: 28px 24px 24px; border: 1px solid rgba(212,175,106,.28); border-radius: 14px; background: linear-gradient(180deg, rgba(212,175,106,.08), rgba(212,175,106,0) 70%); transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
+.card.feature:hover { transform: translateY(-3px); border-color: #d4af6a; box-shadow: 0 10px 28px rgba(212,175,106,.12); }
+.card.feature .num { position: absolute; top: 14px; right: 20px; font-family: "Playfair Display", Georgia, serif; font-size: 2.2em; font-weight: 700; line-height: 1; color: rgba(212,175,106,.28); }
+.card.feature svg { display: block; width: 30px; height: 30px; margin-bottom: 14px; fill: none; stroke: #d4af6a; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+@media (max-width: 899px) { .landing-section .post-list > li { margin-bottom: 16px; } }
+.landing-section .post-list .tag { display: flex; align-items: center; gap: 8px; font-size: .75em; letter-spacing: .14em; text-transform: uppercase; color: #d4af6a; }
+.landing-section .post-list .tag svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.landing-section .post-list .excerpt { margin: 10px 0 0; font-size: .92em; line-height: 1.6; opacity: .8; }
+.landing-section .post-list > li.card-article { padding: 22px; border: 1px solid rgba(128,128,128,.28); border-top: 3px solid #d4af6a; border-radius: 12px; background: #141831; }
+.landing-section .post-list > li.card-poem { padding: 40px 24px 26px; text-align: center; border: 1px solid rgba(212,175,106,.3); border-radius: 90px 90px 14px 14px; background: radial-gradient(ellipse at 50% 0%, rgba(212,175,106,.16), rgba(212,175,106,0) 70%), #121629; }
+.landing-section .post-list > li.card-poem .tag { justify-content: center; }
+.landing-section .post-list > li.card-poem .excerpt { font-style: italic; }
+@media (prefers-reduced-motion: reduce) { .card.feature { transition: none; } .card.feature:hover { transform: none; } }
+</style>
 <div class="landing-section">
   <h2>What you will find here</h2>
   <div class="cards">
-    <div class="card"><h3>Advanced techniques</h3><p>Perception-based methods such as negative capability, the objective correlative and defamiliarization.</p></div>
-    <div class="card"><h3>Simple explanations</h3><p>Each method in plain words, so you can understand it and try it the same day.</p></div>
-    <div class="card"><h3>Examples from my poems</h3><p>See every technique at work in lines from my own poetry.</p></div>
+    <div class="card feature"><span class="num">01</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z"/><path d="M19 16l.7 1.8 1.8.7-1.8.7L19 21l-.7-1.8-1.8-.7 1.8-.7z"/></svg><h3>Advanced techniques</h3><p>Perception-based methods such as negative capability, the objective correlative and defamiliarization.</p></div>
+    <div class="card feature"><span class="num">02</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h6a3 3 0 0 1 2 1 3 3 0 0 1 2-1h6v13h-6a3 3 0 0 0-2 1 3 3 0 0 0-2-1H4z"/><path d="M12 6v13"/></svg><h3>Simple explanations</h3><p>Each method in plain words, so you can understand it and try it the same day.</p></div>
+    <div class="card feature"><span class="num">03</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.2 3.8C13 3 8 8 7 15l-3 5"/><path d="M20.2 3.8c.8 7.2-4.2 12.2-11.2 12.2"/><path d="M9 15l6-6"/></svg><h3>Examples from my poems</h3><p>See every technique at work in lines from my own poetry.</p></div>
   </div>
 </div>
-
 <div class="landing-section">
   <h2>Latest articles</h2>
   <ul class="post-list">
   {% for post in site.posts limit:3 %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <li class="card-article">
+      <span class="tag"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 21l3.5-1 11-11-2.5-2.5-11 11z"/><path d="M14.5 6.5L17 9"/></svg>Article</span>
       <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+      <p class="excerpt">{{ post.description | default: post.excerpt | strip_html | strip | truncate: 130 }}</p>
     </li>
   {% endfor %}
   </ul>
   <p><a href="{{ '/articles/' | relative_url }}">See all articles &rarr;</a></p>
 </div>
-
 <div class="landing-section">
   <h2>Latest poems</h2>
   <ul class="post-list">
   {% assign latest_poems = site.poems | sort: "date" | reverse %}
   {% for poem in latest_poems limit:3 %}
-    <li>
-      <span class="post-meta">{{ poem.date | date: "%b %-d, %Y" }}</span>
+    <li class="card-poem">
+      <span class="tag"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>Poem</span>
       <h3><a class="post-link" href="{{ poem.url | relative_url }}">{{ poem.title | escape }}</a></h3>
+      <p class="excerpt">{{ poem.description | strip_html | strip | truncate: 130 }}</p>
     </li>
   {% endfor %}
   </ul>
   <p><a href="{{ '/poems/' | relative_url }}">See all poems &rarr;</a></p>
 </div>
-
 <div class="closing">
   <h2>Ready to try a new technique?</h2>
   <p>Read the articles and find techniques to apply in your poetry right now!</p>
