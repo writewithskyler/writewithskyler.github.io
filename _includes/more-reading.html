@@ -15,26 +15,27 @@
 }
 </style>
 <aside class="more-reading" aria-label="More to read">
-  <h2>More articles</h2>
+  <h2>Articles</h2>
   <ul>
   {% assign shown = 0 %}
   {% for p in site.posts %}
-    {% if p.url != page.url and shown < 6 %}
+    {% if p.url != page.url and shown < 3 %}
     <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
     {% assign shown = shown | plus: 1 %}
     {% endif %}
   {% endfor %}
   </ul>
+  <a class="all" style="display:block;margin-bottom:22px" href="{{ '/articles/' | relative_url }}" aria-label="See more articles">See more &rarr;</a>
   <h2>Poems</h2>
   <ul>
   {% assign poems_sorted = site.poems | sort: "date" | reverse %}
   {% assign shown = 0 %}
   {% for p in poems_sorted %}
-    {% if p.url != page.url and shown < 5 %}
+    {% if p.url != page.url and shown < 3 %}
     <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
     {% assign shown = shown | plus: 1 %}
     {% endif %}
   {% endfor %}
   </ul>
-  <a class="all" href="{{ '/articles/' | relative_url }}">See all articles &rarr;</a>
+  <a class="all" style="display:block;margin-bottom:6px" href="{{ '/poems/' | relative_url }}" aria-label="See more poems">See more &rarr;</a>
 </aside>
