@@ -7,6 +7,7 @@ layout: default
 .page-banner p { margin: 0; max-width: 30em; opacity: 0.9; }
 @media (max-width: 600px) { .page-banner { padding: 40px 22px; background: linear-gradient(rgba(15, 18, 32, 0.75), rgba(15, 18, 32, 0.75)), var(--banner) 78% center / cover no-repeat #0f1220; } }
 </style>
+{% if page.collection == "poems" %}<div class="reading-layout">{% endif %}
 <article class="post">
   {% if page.banner %}
   <header class="post-header page-banner" style="--banner: url('{{ page.banner | relative_url }}')">
@@ -14,7 +15,8 @@ layout: default
     {% if page.tagline %}<p>{{ page.tagline }}</p>{% endif %}
   </header>
   {% else %}
-  <header class="post-header"><h1 class="post-title">{{ page.title | escape }}</h1></header>
+  <header class="post-header"><h1 class="post-title">{{ page.title | escape }}</h1>{% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}</header>
   {% endif %}
   <div class="post-content">{{ content }}</div>
 </article>
+{% if page.collection == "poems" %}{% include more-reading.html %}</div>{% endif %}
