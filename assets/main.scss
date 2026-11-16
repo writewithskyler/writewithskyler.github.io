@@ -128,3 +128,4 @@ blockquote {
 .site-header { z-index: 10; }
 .post-content .post-list .post-link, .post-content .poem-list .post-link { font-size: 21px; line-height: 1.35; }
 @media (max-width: 600px) { .post-content .post-list .post-link, .post-content .poem-list .post-link { font-size: 19px; } }
+@media (max-width: 600px) { .site-header .site-nav { top: 18px; } }
