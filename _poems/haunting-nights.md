@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Haunting Nights"
+subtitle: "A cozy evening, a quiet shore, and a night that won't let you sleep."
 date: 2026-10-29 12:55:00 +0530
 description: "A poem about a calm evening that turns into a sleepless night of overthinking, and the weight it leaves behind."
 image: /assets/haunting-nights.jpg
