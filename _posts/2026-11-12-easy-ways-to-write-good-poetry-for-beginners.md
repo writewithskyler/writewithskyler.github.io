@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Easy Ways to Write Good Poetry for Beginners"
+subtitle: "Five simple ways to turn a feeling into a poem. No big words needed."
 description: "Five easy ways to write good poetry as a beginner: use your emotion, show its weight, pick exact words, try free verse and write simple imagery."
 date: 2026-11-12 10:00:00 +0530
 ---
