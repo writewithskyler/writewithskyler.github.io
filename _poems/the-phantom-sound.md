@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Phantom Sound – an Inner Voice That Chains You"
+subtitle: "The voice you tried to leave behind has found you again."
 date: 2026-10-28
 description: "A poem about the inner voice in everyone's mind that creates inner conflict, and why we must be aware of it and fight back."
 image: /assets/phantom-sound.jpg
