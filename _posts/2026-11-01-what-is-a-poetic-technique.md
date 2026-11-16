@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What Is a Poetic Technique?"
+subtitle: "The craft behind every line that moves you, explained in plain words."
 description: "Learn what a poetic technique is, how it differs from a poetic device, and see common and advanced techniques with meanings and examples."
 ---
 
