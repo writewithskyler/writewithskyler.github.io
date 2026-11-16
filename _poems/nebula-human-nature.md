@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Nebula – Human Nature"
+subtitle: "A devil's confession: I never corrupted anyone. I only revealed what was already there."
 date: 2026-10-29 12:30:00 +0530
 description: "A poem in the voice of a devil who says he never corrupted anyone, only revealed the darkness already in human nature."
 image: /assets/nebula-the-human-nature.jpg
