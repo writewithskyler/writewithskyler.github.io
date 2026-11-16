@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Underrated and Advanced Poetry Methods: Perception-Based Techniques"
+subtitle: "Go beyond metaphor with techniques that change how readers see reality."
 description: "Learn perception-based poetry techniques, from negative capability to defamiliarization, that show how reality is experienced instead of explained."
 ---
 
