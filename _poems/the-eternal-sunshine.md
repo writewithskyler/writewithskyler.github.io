@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Eternal Sunshine"
+subtitle: "It feels warm, golden and endless. Then the doorbell rings."
 date: 2026-10-29
 description: "A poem about the pleasures of toxic habits and the heavy price that comes with them. Read it and see what you give up."
 image: /assets/the-eternal-sunshine.jpg
