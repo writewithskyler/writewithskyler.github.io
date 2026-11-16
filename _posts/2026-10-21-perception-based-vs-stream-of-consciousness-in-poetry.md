@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perception-based vs Stream of Consciousness in Poetry"
+subtitle: "Two ways to put a mind on the page, and how poets blend them."
 description: "Compare perception-based poetry methods with stream of consciousness, and learn how poets combine them to create disorienting, immersive poems."
 ---
 
