@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nameless"
-subtitle: "A poem about the masks we wear to be welcomed, and the self we lose beneath them."
+subtitle: "The masks we wear to be welcomed, and the self we lose beneath them."
 description: "Nameless is a poem about wearing a mask to be admired and welcomed, and the quiet loss of self that comes with hiding who you really are."
 ---
 
