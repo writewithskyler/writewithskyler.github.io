@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Poetry for Everyone: Guides and Poems"
 description: "Learn advanced poetry techniques with simple explanations and examples from my own poems. Read the articles and apply them in your poetry."
 ---
 <style>
