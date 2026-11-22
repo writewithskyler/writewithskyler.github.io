@@ -39,7 +39,10 @@ description: "Learn advanced poetry techniques with simple explanations and exam
   .carousel.is-js .carousel-track { transition: none; }
 }
 </style>
+</style>
+<link rel="preload" as="image" href="{{ '/assets/hero-articles.jpg' | relative_url }}" fetchpriority="high">
 
+<div class="carousel" ...
 <div class="carousel" id="hero-carousel" aria-roledescription="carousel" aria-label="Articles and poems">
   <div class="carousel-track">
     <section class="slide slide-articles" aria-roledescription="slide" aria-label="1 of 2">
