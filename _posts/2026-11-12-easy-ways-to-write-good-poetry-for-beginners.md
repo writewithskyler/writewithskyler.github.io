@@ -102,7 +102,7 @@ Keep it honest: a bigger word is not always a better one. Choose the word you un
 
 ### An example from my poem Nebula
 
-When I wanted to talk about a specific group of people in my poem [Nebula]({{ "/poems/nebula-the-human-nature/" | relative_url }}), I used the phrase "blue bloods":
+When I wanted to talk about a specific group of people in my poem [Nebula]({{ "/poems/nebula-human-nature/" | relative_url }}), I used the phrase "blue bloods":
 
 > Those bluebloods with radiant skin,<br>
 > Believed they would glow forever.
