@@ -196,8 +196,6 @@ That's a poem draft. It doesn't have to be finished or perfect.
 
 Don't judge it while you write. Finish it first, and fix the words later.
 
-## One last thing
-
 There are many things in poetry that can feel complicated for a beginner. There are things a beginner may not be able to write yet. But the first step is writing. And you will always wonder what to write. That's why you pick an emotion.
 
 In life, a person comes across so many emotions, and it can be really revolutionary to express those feelings. Sometimes it also helps the writer heal and connect with others through their imagination. So poetry can bring many good things to a beginner who starts from emotion.
