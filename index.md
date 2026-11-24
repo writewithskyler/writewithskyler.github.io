@@ -110,12 +110,35 @@ description: "Learn advanced poetry techniques with simple explanations and exam
 @media (prefers-reduced-motion: reduce) { .card.feature { transition: none; } .card.feature:hover { transform: none; } }
 </style>
 <div class="landing-section">
-  <h2>What you will find here</h2>
+  <h2>Inside the Scroll</h2>
   <div class="cards">
     <div class="card feature"><span class="num">01</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z"/><path d="M19 16l.7 1.8 1.8.7-1.8.7L19 21l-.7-1.8-1.8-.7 1.8-.7z"/></svg><h3>Advanced techniques</h3><p>Perception-based methods such as negative capability, the objective correlative and defamiliarization.</p></div>
     <div class="card feature"><span class="num">02</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h6a3 3 0 0 1 2 1 3 3 0 0 1 2-1h6v13h-6a3 3 0 0 0-2 1 3 3 0 0 0-2-1H4z"/><path d="M12 6v13"/></svg><h3>Simple explanations</h3><p>Each method in plain words, so you can understand it and try it the same day.</p></div>
     <div class="card feature"><span class="num">03</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.2 3.8C13 3 8 8 7 15l-3 5"/><path d="M20.2 3.8c.8 7.2-4.2 12.2-11.2 12.2"/><path d="M9 15l6-6"/></svg><h3>Examples from my poems</h3><p>See every technique at work in lines from my own poetry.</p></div>
   </div>
+</div>
+<style>
+.ref-card { display: flex; align-items: center; gap: 22px; margin: 28px 0 0; padding: 22px 26px; border: 1px solid rgba(212,175,106,.3); border-left: 4px solid #d4af6a; border-radius: 14px; background: linear-gradient(100deg, rgba(212,175,106,.12), rgba(212,175,106,0) 70%), #141831; }
+.ref-card .ref-num { flex: none; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 84px; height: 84px; border: 1.5px solid #d4af6a; border-radius: 50%; color: #d4af6a; font-family: "Playfair Display", Georgia, serif; font-size: 1.9em; font-weight: 700; line-height: 1; }
+.ref-card .ref-num small { margin-top: 5px; font-family: "Lora", Georgia, serif; font-size: .34em; font-weight: 400; letter-spacing: .12em; text-transform: uppercase; }
+.ref-card .ref-body { flex: 1; min-width: 0; }
+.ref-card .ref-tag { margin: 0 0 6px; font-size: .75em; letter-spacing: .14em; text-transform: uppercase; color: #d4af6a; }
+.ref-card h3 { margin: 0 0 6px; font-size: 1.35em; }
+.ref-card .ref-text { margin: 0; font-size: .95em; opacity: .85; }
+.ref-card .ref-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 0; padding: 0; list-style: none; }
+.ref-card .ref-chips li { margin: 0; padding: 3px 10px; border: 1px solid rgba(128,128,128,.4); border-radius: 999px; font-size: .8em; }
+.ref-card .btn { flex: none; margin-top: 0; }
+@media (max-width: 600px) { .ref-card { flex-direction: column; align-items: flex-start; padding: 20px; } .ref-card .ref-num { width: 64px; height: 64px; font-size: 1.4em; } .ref-card .btn { align-self: stretch; text-align: center; } }
+</style>
+<div class="ref-card">
+  <div class="ref-num">101<small>devices</small></div>
+  <div class="ref-body">
+    <p class="ref-tag">Poetry reference</p>
+    <h3>101 Poetic Devices with Examples</h3>
+    <p class="ref-text">Every device explained in simple words, with a line from a real poem. Jump straight to any one.</p>
+    <ul class="ref-chips"><li>Sound</li><li>Form and structure</li><li>Figurative language</li><li>Voice, mood and theme</li><li>Style and syntax</li></ul>
+  </div>
+  <a class="btn" href="{{ '/poetic-devices/' | relative_url }}">Explore the list</a>
 </div>
 <div class="landing-section">
   <h2>Latest articles</h2>
