@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /poetic-devices/
 title: "101 Poetic Devices with Examples"
 description: "Learn 101 poetic devices in simple words, each explained with an example. Sound, form, figurative language, voice and more."
 ---
