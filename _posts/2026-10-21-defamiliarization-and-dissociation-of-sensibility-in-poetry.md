@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Use Defamiliarization and Dissociation of Sensibility in Poetry – Beginner Friendly"
+title: "Defamiliarization and Dissociation of Sensibility in Poetry – Beginner Friendly"
 subtitle: "Make the ordinary feel strange, with a five-minute exercise to try today."
 description: "A beginner-friendly guide to defamiliarization and dissociation of sensibility, with simple examples and a five-minute poetry practice."
 ---
