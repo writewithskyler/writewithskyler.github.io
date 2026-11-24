@@ -9,7 +9,7 @@ description: "Learn 101 poetic devices in simple words, each explained with an e
 
 A poetic device is a tool a poet uses to shape sound, meaning and feeling. Below you will find 101 of them, each explained in simple words with a short example. Use the list below to jump straight to any device.
 
-**Jump to a category:** [Sound](#sound) · [Form and structure](#form-and-structure) · [Figurative language](#figurative-language) · [Voice, mood and theme](#voice-mood-and-theme) · [Style, syntax and special techniques](#style-syntax-and-special-techniques)
+**Jump to a category:** [Sound](#sound) · [Form and structure](#form-and-structure) · [Figurative language](#figurative-language) · [Voice, mood and theme](#voice-mood-and-theme) · [Style, syntax and word choice](#style-syntax-and-word-choice)
 
 ## Sound {#sound}
 
@@ -453,7 +453,7 @@ The pathetic fallacy is when a poet gives human emotions to nature, so the weath
 
 These devices shape who is speaking, how a poem feels and what it is about.
 
-**In this section:** [Imagery](#imagery) · [Tone](#tone) · [Mood](#mood) · [Diction](#diction) · [Connotation](#connotation) · [Denotation](#denotation) · [Voice](#voice) · [Speaker](#speaker) · [Persona](#persona) · [Theme](#theme) · [Motif](#motif) · [Ambiguity](#ambiguity) · [Foreshadowing](#foreshadowing) · [Dramatic monologue](#dramatic-monologue) · [Stream of consciousness](#stream-of-consciousness)
+**In this section:** [Imagery](#imagery) · [Tone](#tone) · [Mood](#mood) · [Diction](#diction) · [Connotation](#connotation) · [Denotation](#denotation) · [Voice](#voice) · [Speaker](#speaker) · [Persona](#persona) · [Theme](#theme) · [Motif](#motif) · [Ambiguity](#ambiguity) · [Foreshadowing](#foreshadowing) · [Dramatic monologue](#dramatic-monologue) · [Bathos](#bathos)
 
 ### Imagery {#imagery}
 
@@ -539,29 +539,29 @@ A dramatic monologue is a poem in which a single speaker talks to a silent liste
 
 **Example:** "That's my last Duchess painted on the wall, / Looking as if she were alive." (Robert Browning, "My Last Duchess"). The Duke speaks to a listener and slowly reveals his cold, controlling nature.
 
-### Stream of consciousness {#stream-of-consciousness}
+### Bathos {#bathos}
 
-Stream of consciousness is a style that tries to capture the flow of a mind: thoughts, memories and sensations as they appear, often without clear order or punctuation. It moves quickly from one idea to the next, following association instead of logic. The technique is best known from modern novels, but some poems use it too. It can feel intimate and immediate, as if we are inside someone's head. It is often hard to follow, so watch for the links between images.
+Bathos is a sudden drop from a serious, grand or emotional tone to something ordinary or silly. Used on purpose, it creates humour, irony or satire by showing how small a "huge" problem really is. It is different from pathos, which stirs pity or sorrow. If bathos happens by accident, a serious poem can sound unintentionally funny. Alexander Pope used it brilliantly to mock vanity and trivial worries. To write it deliberately, build up the grand tone first so that the drop feels sharp.
 
-**Example:** "Let us go then, you and I, / When the evening is spread out against the sky / Like a patient etherized upon a table" (T. S. Eliot, "The Love Song of J. Alfred Prufrock"). The poem is often described as an inner, wandering monologue rather than a conventional narrative.
+**Example:** "Not louder shrieks to pitying heaven are cast, / When husbands or when lapdogs breathe their last" (Alexander Pope, "The Rape of the Lock"). The line falls from husbands to lapdogs, a sudden drop into the trivial.
 
-## Style, syntax and special techniques {#style-syntax-and-special-techniques}
+## Style, syntax and word choice {#style-syntax-and-word-choice}
 
-These devices cover sentence style, word choice and a few special techniques that shape how a poem reads.
+These devices cover sentence style, word choice and everyday language, and how they shape the way a poem reads.
 
-**In this section:** [Negative capability](#negative-capability) · [Defamiliarization](#defamiliarization) · [Inversion](#inversion) · [Objective correlative](#objective-correlative) · [Ellipsis](#ellipsis) · [Asyndeton](#asyndeton) · [Polysyndeton](#polysyndeton) · [Anadiplosis](#anadiplosis) · [Rhetorical question](#rhetorical-question) · [Colloquialism](#colloquialism) · [Archaism](#archaism) · [Elision](#elision) · [Idiom](#idiom) · [Cliché](#cliche) · [Satire](#satire) · [Epigraph](#epigraph)
+**In this section:** [Epizeuxis](#epizeuxis) · [Dialect](#dialect) · [Inversion](#inversion) · [Neologism](#neologism) · [Ellipsis](#ellipsis) · [Asyndeton](#asyndeton) · [Polysyndeton](#polysyndeton) · [Anadiplosis](#anadiplosis) · [Rhetorical question](#rhetorical-question) · [Colloquialism](#colloquialism) · [Archaism](#archaism) · [Elision](#elision) · [Idiom](#idiom) · [Cliché](#cliche) · [Satire](#satire) · [Epigraph](#epigraph)
 
-### Negative capability {#negative-capability}
+### Epizeuxis {#epizeuxis}
 
-Negative capability is a phrase coined by John Keats in a letter written in 1817. He used it for the ability to stay with uncertainty, mystery and doubt without rushing to explain everything or reach a firm answer. For Keats, great poets, Shakespeare above all, can hold many conflicting ideas at once and let the beauty of a thing speak for itself. In practice, it means a poem can ask questions and leave them open instead of closing with a neat moral. When you write, try ending on an image or a question rather than a lesson.
+Epizeuxis is the repetition of a word or phrase straight away, with nothing in between. It adds emphasis, urgency or emotion, and it can create a chanting rhythm. It is tighter than a refrain, which returns after a gap. Poets use it to show strong feeling such as grief, excitement or wonder, or to imitate a sound like a ringing bell. Use it with care, because repeating a word too often can drain its power. Read the line aloud to hear how the repeated word builds a beat.
 
-**Example:** "Was it a vision, or a waking dream? / Fled is that music:—Do I wake or sleep?" (John Keats, "Ode to a Nightingale"). The poem ends with open questions and no firm answer.
+**Example:** "Keeping time, time, time, / In a sort of Runic rhyme," (Edgar Allan Poe, "The Bells"). The repeated word "time" ticks like a beat.
 
-### Defamiliarization {#defamiliarization}
+### Dialect {#dialect}
 
-Defamiliarization means describing something familiar in a strange or unexpected way, so the reader sees it as if for the first time. The Russian critic Viktor Shklovsky introduced the idea in 1917, using the term "ostranenie," or "making strange." Everyday objects become dull because we stop noticing them, and fresh, odd description wakes us up. Poets do this through unusual comparisons, a new angle, or by pretending not to know an object's name. It is a good tool when a subject feels too ordinary to write about.
+Dialect is a way of speaking that belongs to a particular region, community or group, with its own words, spelling and grammar. Poets use dialect to give a speaker a real, local voice and to bring a place and its people to life. It can add warmth, humour and truth, and it can keep a way of speaking alive. Use it with respect and avoid mockery, and make sure readers can still follow it. A short note or glossary can help. Reading dialect aloud makes it much easier to understand.
 
-**Example:** "A Narrow Fellow in the Grass / Occasionally rides –" (Emily Dickinson, "A narrow Fellow in the Grass"). The poem never names the snake, so a familiar creature feels strange.
+**Example:** "Wee, sleekit, cow'rin, tim'rous beastie, / O, what a panic's in thy breastie!" (Robert Burns, "To a Mouse"). Burns writes in Scots, so the words sound like the speech of his home.
 
 ### Inversion {#inversion}
 
@@ -569,11 +569,11 @@ Inversion is a change in the normal word order of a sentence, usually to fit the
 
 **Example:** "Him the Almighty Power / Hurl'd headlong flaming from th' Ethereal Sky" (John Milton, "Paradise Lost"). The object "Him" comes first, before the subject and verb, which puts the focus on Satan's fall.
 
-### Objective correlative {#objective-correlative}
+### Neologism {#neologism}
 
-Objective correlative is T. S. Eliot's term, from his 1919 essay on Hamlet, for a set of objects, a situation or a chain of events that evokes a particular emotion in the reader without naming it. Instead of saying "I am grieving," the poet shows concrete things that carry the feeling, and the reader feels the emotion through them. It is closely tied to the advice "show, don't tell." It works best when the objects are specific and the link to the feeling is natural, not forced.
+A neologism is a new word that a writer invents, or a new meaning given to an existing word. Poets create neologisms to name a feeling or image that no current word captures, to be playful, or to help readers see something freshly. Some invented words fade, while others, like "chortle," which Lewis Carroll coined, enter everyday English. A neologism often borrows familiar sounds or word parts, so readers can guess its meaning. Use it sparingly, and let the surrounding lines help explain it.
 
-**Example:** "I have measured out my life with coffee spoons;" (T. S. Eliot, "The Love Song of J. Alfred Prufrock"). Small, ordinary objects carry the speaker's feeling of a dull, wasted life without naming it.
+**Example:** "'Twas brillig, and the slithy toves / Did gyre and gimble in the wabe:" (Lewis Carroll, "Jabberwocky"). Words like "brillig" and "slithy" are invented, yet they sound meaningful.
 
 ### Ellipsis {#ellipsis}
 
