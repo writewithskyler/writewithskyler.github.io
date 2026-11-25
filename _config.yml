@@ -1,6 +1,7 @@
 title: Write With Skyler
 description: "Poetry for Everyone: Guides and Poems"
 url: https://writewithskyler.github.io
+author: Skyler
 theme: minima
 plugins:
   - jekyll-seo-tag
