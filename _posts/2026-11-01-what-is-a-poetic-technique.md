@@ -45,7 +45,7 @@ Over the years, poets ranging from the classical era to the modern day have deve
 
 ## Poetic Techniques vs Poetic Devices
 
-Importantly, it is absolutely crucial for people to differentiate between these two things, because the difference goes far beyond what we might think. A **poetic device** is basically just a tool that we use, and it can show up in many places across a poem. But each device has just one single role in one specific spot, it is almost like a synonym that labels what is there, but nothing more than that. You can look at a line and simply say a device has been used, but that doesn't change the fact that it only explains that one tiny fragment.
+Importantly, it is absolutely crucial for people to differentiate between these two things, because the difference goes far beyond what we might think. A **[poetic device](/poetic-devices/)** is basically just a tool that we use, and it can show up in many places across a poem. But each device has just one single role in one specific spot, it is almost like a synonym that labels what is there, but nothing more than that. You can look at a line and simply say a device has been used, but that doesn't change the fact that it only explains that one tiny fragment.
 
 A **poetic technique**, however, is all about *how* we use those tools, and it covers the entire poem from the main theme to the core concept. It calculates the whole level of the poetry, including the word choice, the layout, the line placement, the rhythm, the perspective, the story, and the immediate situation. Technique answers the big questions: *Why must this rhyme? Why does it have this specific structure?* You can never come to a final conclusion about a poem based on a single line; you have to read the entire thing to understand the poetic technique. That is why noticing this difference is so crucial.
 
@@ -53,7 +53,7 @@ To understand why this distinction is vital, look at a classic example:
 
 **"He is the sun."**
 
-* **The Poetic Device (The Label):** If you only look at this isolated line, you can instantly identify the device as a **metaphor**. Two unlike things are being directly compared. However, labeling a poetic device does not tell you much. It is static. It simply identifies *what* is there: a comparison is happening, and that is all.
+* **The Poetic Device (The Label):** If you only look at this isolated line, you can instantly identify the device as a **[metaphor](/poetic-devices/#metaphor)**. Two unlike things are being directly compared. However, labeling a poetic device does not tell you much. It is static. It simply identifies *what* is there: a comparison is happening, and that is all.
 
 * **The Poetic Technique (The Context):** To discover the poetic technique, a single line is never enough. Techniques cannot exist in a vacuum; they must be calculated across the entire canvas of the poem. For example, a single line might contain alliteration, but the technique ensures that the sound pattern matches the emotional flow, the core theme, and the immediate situation of the poem.
 
