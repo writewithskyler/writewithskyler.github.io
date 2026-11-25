@@ -9,6 +9,8 @@ description: "Learn 101 poetic devices in simple words, each explained with an e
 
 A poetic device is a tool a poet uses to shape sound, meaning and feeling. Below you will find 101 of them, each explained in simple words with a short example. Use the list below to jump straight to any device.
 
+A device names one tool. To see how poets use tools together with a purpose, read [What Is a Poetic Technique?](/2026/11/01/what-is-a-poetic-technique.html)
+
 **Jump to a category:** [Sound](#sound) · [Form and structure](#form-and-structure) · [Figurative language](#figurative-language) · [Voice, mood and theme](#voice-mood-and-theme) · [Style, syntax and word choice](#style-syntax-and-word-choice)
 
 ## Sound {#sound}
