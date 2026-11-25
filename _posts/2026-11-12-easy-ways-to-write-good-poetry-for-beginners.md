@@ -125,7 +125,7 @@ It's like talking to a friend instead of reading from a rulebook. The poem can t
 
 Imagery is easy to understand, and yet it can be carefully built by the poet. When you can visualize something and put it into words, you don't have to explain the sight you are looking at, the feeling you sense or the smell you notice.
 
-It doesn't have to be well explained in a poem. That is the most important thing: you don't explain it, you just write it how it is, as it is. People often mistake imagery for saying everything about the thing you are seeing in the scene. But you can just add those objects in one line, and then say how it felt.
+It doesn't have to be well explained in a poem. That is the most important thing: you don't explain it, you just write it how it is, as it is. People often mistake [imagery](/poetic-devices/#imagery) for saying everything about the thing you are seeing in the scene. But you can just add those objects in one line, and then say how it felt.
 
 For example:
 
