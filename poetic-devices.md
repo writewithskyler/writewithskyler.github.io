@@ -7,7 +7,7 @@ description: "Learn 101 poetic devices in simple words, each explained with an e
 
 # 101 Poetic Devices with Examples {#poetic-devices}
 
-A poetic device is a tool a poet uses to shape sound, meaning and feeling. Below you will find 101 of them, each explained in simple words with a short example. Use the list below to jump straight to any device.
+A poetic device is a tool a poet uses to shape sound, meaning and feeling. Below you will find 101 of them, each explained in simple words with a short example. Many also show where the word comes from. Use the list below to jump straight to any device.
 
 A device names one tool. To see how poets use tools together with a purpose, read [What Is a Poetic Technique?](/2026/11/01/what-is-a-poetic-technique.html)
 
@@ -25,11 +25,15 @@ Alliteration is the repetition of the same consonant sound at the start of nearb
 
 **Example:** "When to the sessions of sweet silent thought" (William Shakespeare, Sonnet 30). The repeated "s" gives the line a hushed, thoughtful feel.
 
+**Origin:** From Latin "ad" (to) and "littera" (letter). The Italian scholar Giovanni Pontano coined the word in the 1400s.
+
 ### What is assonance? {#assonance}
 
 Assonance is the repetition of the same vowel sound in nearby words. The consonants around the vowel can be different. It is a subtle device: you may not notice it, but you can feel it. Assonance adds music to a line, can help it flow, and can add a gentle or dreamy mood, depending on the sounds around it. Like alliteration, it works by sound, not spelling, so "bean" and "seem" share a vowel sound, while "bear" and "bean" do not.
 
 **Example:** "Hear the mellow wedding bells" (Edgar Allan Poe, "The Bells"). The short "e" sound in "mellow," "wedding" and "bells" gives the line its soft, ringing music.
+
+**Origin:** From Latin "assonare", "to answer with the same sound".
 
 ### What is consonance? {#consonance}
 
@@ -37,11 +41,15 @@ Consonance is the repetition of the same consonant sound in nearby words, wherev
 
 **Example:** "Only the stuttering rifles' rapid rattle / Can patter out their hasty orisons." (Wilfred Owen, "Anthem for Doomed Youth"). The repeated "t" and "r" sounds inside the words echo the clatter of gunfire.
 
+**Origin:** From Latin "consonantia", "agreement of sounds".
+
 ### What is sibilance? {#sibilance}
 
 Sibilance is the repeated use of hissing sounds, such as "s," "sh," "z" and soft "c." It is a special kind of alliteration or consonance. Sibilance can sound like whispering, wind, rain or a snake, so it often creates a hushed, secret or eerie mood. Because the sound is so noticeable, use it carefully: a little can be magical, but too much can sound like hissing. Many poets use it to bring quiet scenes to life.
 
 **Example:** "And the silken, sad, uncertain rustling of each purple curtain" (Edgar Allan Poe, "The Raven"). The hissing "s" sounds make the room feel hushed and uneasy.
+
+**Origin:** From Latin "sibilare", "to hiss or whistle".
 
 ### What is onomatopoeia? {#onomatopoeia}
 
@@ -49,17 +57,23 @@ Onomatopoeia is a word that sounds like the thing it names. Words like "buzz," "
 
 **Example:** "From the jingling and the tinkling of the bells" (Edgar Allan Poe, "The Bells"). "Jingling" and "tinkling" imitate the light, repeated sounds of bells.
 
+**Origin:** From Greek "onomatopoiia", "making of a name": "onoma" (name) and "poiein" (to make).
+
 ### What is euphony? {#euphony}
 
 Euphony is a pleasant, smooth and musical sound in a line of poetry. It is often created with flowing consonants like "l," "m," "n" and "r," long vowels and a smooth rhythm. Words that flow easily off the tongue can create euphony. Poets use it for calm, beautiful or loving moments, because the sound itself feels gentle. If a line sounds pleasing and harmonious when read aloud, it may be euphony. It is the opposite of cacophony.
 
 **Example:** "The moan of doves in immemorial elms, / And murmuring of innumerable bees" (Alfred, Lord Tennyson, "The Princess"). The soft "m," "n" and "r" sounds make the lines hum.
 
+**Origin:** From Greek "euphonia": "eu" (good) and "phone" (sound).
+
 ### What is cacophony? {#cacophony}
 
 Cacophony is a harsh, jarring mix of sounds in a line of poetry. It often comes from abrupt, clashing consonants like "k," "t," "g," "b" and "d" next to each other, so the line sounds harsh or discordant. Poets can use cacophony on purpose to suggest chaos, anger, noise or pain, so the sound matches the meaning. When a line sounds bumpy or clashing when you read it aloud, it may be cacophony. It is the opposite of euphony.
 
 **Example:** "Beware the Jabberwock, my son! / The jaws that bite, the claws that catch!" (Lewis Carroll, "Jabberwocky"). The hard "j," "b," "k" and "ch" sounds make the lines snap and clash.
+
+**Origin:** From Greek "kakophonia": "kakos" (bad) and "phone" (sound).
 
 ### What is rhyme? {#rhyme}
 
@@ -103,11 +117,15 @@ A refrain is a line, phrase or word that is repeated at intervals in a poem, oft
 
 **Example:** "Quoth the Raven, 'Nevermore.'" (Edgar Allan Poe, "The Raven"). The repeated word ends many stanzas and feels darker each time.
 
+**Origin:** From Old French "refraindre", "to repeat".
+
 ### What is repetition in poetry? {#repetition}
 
 Repetition is using the same word, phrase or sound more than once. It is one of the simplest and strongest devices in poetry. Repetition adds emphasis, builds rhythm and shows strong feeling, like urgency or obsession. It also makes poems easier to remember. The key is purpose: repeat a word because it matters, and let the repeat change the meaning a little each time. Refrain, anaphora and epistrophe are all special kinds of repetition.
 
 **Example:** "Break, break, break, / On thy cold gray stones, O Sea!" (Alfred, Lord Tennyson, "Break, Break, Break"). The repeated word makes the waves sound heavy and endless.
+
+**Origin:** From Latin "repetere", "to seek again".
 
 ### What is anaphora? {#anaphora}
 
@@ -115,17 +133,23 @@ Anaphora is the repetition of the same word or phrase at the start of several li
 
 **Example:** "In every cry of every Man, / In every Infant's cry of fear, / In every voice: in every ban," (William Blake, "London"). Each line begins with "In every," which piles up the sense of suffering all around the speaker.
 
+**Origin:** From Greek "anaphora", "a carrying back": "ana" (back) and "pherein" (to carry).
+
 ### What is epistrophe? {#epistrophe}
 
 Epistrophe is the repetition of the same word or phrase at the end of several lines, sentences or clauses. It is the end-position counterpart of anaphora, which repeats at the start. Because the repeated words come last, they stay in the reader's ear, so epistrophe is great for a strong, memorable finish. It adds rhythm and weight, and it can make an idea feel final. It is common in speeches and in poems that circle back to one central thought.
 
 **Example:** "Cannon to right of them, / Cannon to left of them, / Cannon in front of them" (Alfred, Lord Tennyson, "The Charge of the Light Brigade"). Each line ends with "of them." (The lines also begin with "Cannon," which is anaphora.)
 
+**Origin:** From Greek "epistrophe", "a turning back".
+
 ### What is rhythm in poetry? {#rhythm}
 
 Rhythm is the pattern of strong and weak beats in a line of poetry. It is the beat you feel when you read aloud, like the beat in music. Rhythm comes from stressed and unstressed syllables, line length, pauses and repeated sounds. A steady rhythm can feel calm or marching; a broken rhythm can feel nervous or wild. To find rhythm, read the line aloud and tap along with the stresses. Meter is a more exact way to measure it.
 
 **Example:** "Once upon a midnight dreary, while I pondered, weak and weary" (Edgar Allan Poe, "The Raven"). The line follows a mainly strong–weak pattern: ONCE up-ON a MID-night DREAR-y.
+
+**Origin:** From Greek "rhythmos", "measured flow".
 
 ## Form and structure {#form-and-structure}
 
@@ -139,11 +163,15 @@ Meter is the measured pattern of stressed and unstressed syllables in a line of 
 
 **Example:** "TY-ger TY-ger, BURN-ing BRIGHT" (William Blake, "The Tyger"). The strong–weak pattern repeats, so this line is mainly trochaic, with four beats.
 
+**Origin:** From Greek "metron", "measure".
+
 ### What is iambic pentameter? {#iambic-pentameter}
 
 Iambic pentameter is a line with five iambs: ten syllables in a weak–strong pattern, like "da-DUM da-DUM da-DUM da-DUM da-DUM." It is often said to be close to the natural rhythm of English speech, which is one reason it appears so often. Shakespeare used it in his plays and sonnets, and Milton used it in "Paradise Lost." It feels steady without being stiff, and it can carry both everyday talk and grand ideas. Good poets also bend it, adding extra syllables or shifting stresses to avoid a mechanical sound.
 
 **Example:** "The CUR-few TOLLS the KNELL of PART-ing DAY" (Thomas Gray, "Elegy Written in a Country Churchyard"). Ten syllables, five beats.
+
+**Origin:** From Greek "iambos" (a metrical foot) and "pente" (five) plus "metron" (measure).
 
 ### What is blank verse? {#blank-verse}
 
@@ -151,11 +179,15 @@ Blank verse is poetry written in iambic pentameter that does not rhyme. It keeps
 
 **Example:** "Of Man's first disobedience, and the fruit / Of that forbidden tree whose mortal taste" (John Milton, "Paradise Lost"). The lines keep a steady five-beat rhythm and do not rhyme.
 
+**Origin:** Here "blank" means "without rhyme". Henry Howard, Earl of Surrey, first used it in English in the 1540s, in his translation of Virgil's Aeneid.
+
 ### What is free verse? {#free-verse}
 
 Free verse is poetry without a regular meter or rhyme scheme. The poet decides where lines break and how long they are, often following the natural rhythm of speech or breath. Free verse is not "free" of craft: poets still use imagery, sound, repetition and line breaks to shape it. It became popular in the nineteenth and twentieth centuries, and Walt Whitman is one of its best-known pioneers.
 
 **Example:** "I celebrate myself, and sing myself, / And what I assume you shall assume" (Walt Whitman, "Song of Myself"). There is no fixed meter or rhyme, but repetition and a speaking rhythm hold the lines together.
+
+**Origin:** From the French "vers libre", the name French poets gave it in the late 1800s.
 
 ### What is a caesura? {#caesura}
 
@@ -163,11 +195,15 @@ A caesura is a pause in the middle of a line of poetry. It can come from punctua
 
 **Example:** "To err is human; || to forgive, divine." (Alexander Pope, "An Essay on Criticism"). The pause after "human" splits the line into two balanced halves.
 
+**Origin:** From Latin "caesura", "a cutting", from "caedere" (to cut).
+
 ### What is enjambment? {#enjambment}
 
 Enjambment is when a sentence or phrase continues past the end of a line without a pause. The thought "runs over" the line break into the next line. Enjambment creates movement and speed, and it can make a poem feel like natural speech. It can also create a small surprise, because the end of the line makes you pause for a moment before the sentence finishes. It is the opposite of an end-stopped line, which ends with a clear pause.
 
 **Example:** "Its loveliness increases; it will never / Pass into nothingness" (John Keats, "Endymion"). The sentence carries across the line break from "never" to "Pass."
+
+**Origin:** From French "enjambement", "stepping over", from "jambe" (leg).
 
 ### What is an end-stopped line? {#end-stopped-line}
 
@@ -187,11 +223,15 @@ A stanza is a group of lines in a poem, set apart from other groups by a blank l
 
 **Example:** "O my Luve is like a red, red rose / That's newly sprung in June; / O my Luve is like the melodie / That's sweetly play'd in tune." (Robert Burns, "A Red, Red Rose"). This four-line stanza holds one idea: love as a rose and a melody.
 
+**Origin:** From Italian "stanza", "room" or "stopping place", from Latin "stare" (to stand).
+
 ### What is a couplet? {#couplet}
 
 A couplet is a pair of lines, usually rhyming and with the same meter. The two lines often express one complete thought, so couplets feel neat and final. When a couplet is written in iambic pentameter, it is called a heroic couplet. Couplets can run through a whole poem or appear at the end of a stanza or sonnet, where they often deliver a conclusion or a twist. Shakespeare's sonnets end with one.
 
 **Example:** "True ease in writing comes from art, not chance, / As those move easiest who have learned to dance." (Alexander Pope, "An Essay on Criticism"). The two lines rhyme and complete one idea.
+
+**Origin:** From French "couplet", a small pair, from "couple".
 
 ### What is a tercet? {#tercet}
 
@@ -199,11 +239,15 @@ A tercet is a group of three lines. The lines may all rhyme (AAA) or follow a li
 
 **Example:** "O wild West Wind, thou breath of Autumn's being, / Thou, from whose unseen presence the leaves dead / Are driven, like ghosts from an enchanter fleeing," (Percy Bysshe Shelley, "Ode to the West Wind"). These three lines form one tercet.
 
+**Origin:** From French "tercet", from Italian "terzetto", from "terzo" (third).
+
 ### What is a quatrain? {#quatrain}
 
 A quatrain is a group of four lines. It is the most common stanza in English poetry. Quatrains can use many rhyme schemes, such as AABB, ABAB, ABBA or AABA. They are used in ballads, hymns and songs, and in the first twelve lines of a Shakespearean sonnet. Because it is so common, readers recognize its rhythm easily.
 
 **Example:** "The Moving Finger writes; and, having writ, / Moves on: nor all thy Piety nor Wit / Shall lure it back to cancel half a Line, / Nor all thy Tears wash out a Word of it." (Edward FitzGerald, "The Rubáiyát of Omar Khayyám"). The rhyme pattern is AABA.
+
+**Origin:** From French "quatrain", from "quatre" (four).
 
 ### What is a sestet? {#sestet}
 
@@ -211,11 +255,15 @@ A sestet is a group of six lines. The word most often refers to the last six lin
 
 **Example:** "Then felt I like some watcher of the skies / When a new planet swims into his ken" (John Keats, "On First Looking into Chapman's Homer"). These lines open the sestet and respond to the octave before them.
 
+**Origin:** From Italian "sestetto", from "sesto" (sixth).
+
 ### What is an octave? {#octave}
 
 An octave is a group of eight lines. It usually means the first eight lines of an Italian (Petrarchan) sonnet, which often rhyme ABBAABBA. The octave typically sets up an idea, a question or a problem, which the final six lines, the sestet, then answer. An octave can also be an eight-line stanza in another poem. When you read a sonnet, ask what the first eight lines are building toward. The answer helps you notice where the poem turns.
 
 **Example:** "Much have I travell'd in the realms of gold, / And many goodly states and kingdoms seen" (John Keats, "On First Looking into Chapman's Homer"). These lines begin an octave that rhymes ABBAABBA.
+
+**Origin:** From Latin "octava", "eighth".
 
 ### What is a volta? {#volta}
 
@@ -223,11 +271,15 @@ A volta, Italian for "turn," is the moment in a poem where the thought, mood or 
 
 **Example:** "Yet in these thoughts myself almost despising, / Haply I think on thee" (William Shakespeare, Sonnet 29). After lines of self-pity, "Yet" turns the poem toward joy.
 
+**Origin:** From Italian "volta", "a turn".
+
 ### What is a sonnet? {#sonnet}
 
 A sonnet is a fourteen-line poem, usually in iambic pentameter, with a set rhyme scheme. There are two main kinds. The Italian (Petrarchan) sonnet has an eight-line octave and a six-line sestet, rhyming ABBAABBA and then a pattern such as CDECDE. The English (Shakespearean) sonnet has three quatrains and a couplet, rhyming ABAB CDCD EFEF GG. Most sonnets include a volta, or turn. The strict form is a challenge, and many poets find the limits help them focus. Sonnets are often about love, time, loss or beauty.
 
 **Example:** "Shall I compare thee to a summer's day?" (William Shakespeare, Sonnet 18). This is the first of fourteen lines in a Shakespearean sonnet.
+
+**Origin:** From Italian "sonetto", "little song".
 
 ### What is a haiku? {#haiku}
 
@@ -235,11 +287,15 @@ A haiku is a short poem that began in Japan. In Japanese, it traditionally has 1
 
 **Example:** "An old pond— / a frog jumps in, / the sound of water." (Matsuo Bashō, "The Old Pond," translated from Japanese). Three short lines hold one quiet moment. In Japanese, the poem follows a 5-7-5 pattern of sound units.
 
+**Origin:** A Japanese word. The poet Masaoka Shiki made it the common name for the form in the 1890s.
+
 ### What is a ballad? {#ballad}
 
 A ballad is a poem that tells a story, and it often began as a song. Traditional ballads are usually written in quatrains. They often alternate longer lines of four beats with shorter lines of three beats, and they commonly rhyme ABCB. Ballads tend to use simple language, repetition, dialogue and dramatic events like love, death, adventure or the supernatural.
 
 **Example:** "It is an ancient Mariner, / And he stoppeth one of three. / 'By thy long grey beard and glittering eye, / Now wherefore stopp'st thou me?'" (Samuel Taylor Coleridge, "The Rime of the Ancient Mariner"). Lines two and four rhyme (ABCB).
+
+**Origin:** From Old French "balade", a dancing song, from Latin "ballare" (to dance).
 
 ### What is a villanelle? {#villanelle}
 
@@ -247,11 +303,15 @@ A villanelle is a nineteen-line poem with a strict, circling pattern. It has fiv
 
 **Example:** "They are all gone away, / The House is shut and still, / There is nothing more to say." (Edwin Arlington Robinson, "The House on the Hill"). The first and third lines become the refrains.
 
+**Origin:** From Italian "villanella", a rustic song, from "villano" (peasant). The strict 19-line form was fixed later, from a French poem by Jean Passerat.
+
 ### What is an ode? {#ode}
 
 An ode is a serious poem that speaks to and praises a person, an object or an idea. It has an elevated, emotional tone, and it often moves from observation to deeper reflection. Odes began in ancient Greece as songs of praise, and Romantic poets such as Keats helped bring renewed attention to the form. Odes can be rhymed or unrhymed, and many address the subject directly using words like "O" or "thou."
 
 **Example:** "My heart aches, and a drowsy numbness pains / My sense, as though of hemlock I had drunk" (John Keats, "Ode to a Nightingale"). The poet speaks to the bird and begins a deep reflection.
+
+**Origin:** From Greek "oide", "song".
 
 ### What is an elegy? {#elegy}
 
@@ -259,11 +319,15 @@ An elegy is a poem of mourning for someone who has died. It often moves from gri
 
 **Example:** "'Tis better to have loved and lost / Than never to have loved at all." (Alfred, Lord Tennyson, "In Memoriam A.H.H."). Tennyson wrote the poem as he mourned his friend Arthur Hallam.
 
+**Origin:** From Greek "elegeia", a song of mourning.
+
 ### What is an epic? {#epic}
 
 An epic is a long narrative poem about heroes, great journeys and events that shape a people or a world. It has a grand, formal style and often begins by calling on a Muse for inspiration. Epics usually include battles, gods or supernatural forces, and speeches. Famous epics include the "Iliad," the "Odyssey," "Beowulf" and "Paradise Lost." Early epics were performed aloud, so they use repeated phrases that helped speakers and listeners remember them. Today the word also describes anything large in scale and ambition.
 
 **Example:** "Achilles' wrath, to Greece the direful spring / Of woes unnumber'd, heavenly goddess, sing!" (Homer, translated by Alexander Pope, "The Iliad"). The poem opens by asking a goddess to sing.
+
+**Origin:** From Greek "epikos", from "epos" (word, story or song).
 
 ### What is a limerick? {#limerick}
 
@@ -271,11 +335,15 @@ A limerick is a short, funny poem of five lines. It follows a bouncy rhythm and 
 
 **Example:** "There was an Old Man with a beard, / Who said, 'It is just as I feared! — / Two Owls and a Hen, / Four Larks and a Wren, / Have all built their nests in my beard!'" (Edward Lear, "There was an Old Man with a beard," *A Book of Nonsense*). The rhyme pattern is AABBA.
 
+**Origin:** Named after the city of Limerick in Ireland, though no one is sure why. Edward Lear made the form famous in 1846.
+
 ### What is an acrostic? {#acrostic}
 
 An acrostic is a poem in which the first letters of each line, read downward, spell a word, name or message. The hidden word often relates to the topic, so the poem has a secret layer. When writing an acrostic, choose a meaningful word first, then write each line so it starts with the next letter and still sounds natural.
 
 **Example:** "A boat, beneath a sunny sky, / Lingering onward dreamily / In an evening of July— / Children three that nestle near, / Eager eye and willing ear," (Lewis Carroll, "A Boat, Beneath a Sunny Sky"). The first letters spell ALICE.
+
+**Origin:** From Greek "akrostichis": "akros" (end) and "stichos" (line of verse).
 
 ## Figurative language {#figurative-language}
 
@@ -289,11 +357,15 @@ A metaphor says one thing is another thing, without using "like" or "as." It is 
 
 **Example:** "The fog comes / on little cat feet." (Carl Sandburg, "Fog"). The fog is described as a cat, with no "like" or "as."
 
+**Origin:** From Greek "metaphora", "a transfer": "meta" (across) and "pherein" (to carry).
+
 ### What is a simile? {#simile}
 
 A simile compares two things using "like" or "as." It is more open about the comparison than a metaphor: the poet says one thing is similar to another, not that it is the other. Similes make images clear and often add feeling at the same time. A good simile links two things the reader had not connected before, and it explains something unfamiliar through something familiar. Avoid worn-out similes like "busy as a bee."
 
 **Example:** "I wandered lonely as a cloud / That floats on high o'er vales and hills" (William Wordsworth, "I Wandered Lonely as a Cloud"). The poet compares his drifting mood to a cloud.
+
+**Origin:** From Latin "simile", "a like thing".
 
 ### What is an extended metaphor? {#extended-metaphor}
 
@@ -307,11 +379,15 @@ Personification gives human actions, feelings or qualities to something that is 
 
 **Example:** "Because I could not stop for Death – / He kindly stopped for me –" (Emily Dickinson, "Because I could not stop for Death"). Death becomes a polite visitor who arrives with a carriage.
 
+**Origin:** From Latin "persona" (person or mask) and "facere" (to make).
+
 ### What is hyperbole? {#hyperbole}
 
 Hyperbole is deliberate, extreme exaggeration. The poet does not expect the reader to believe it literally. Instead, the exaggeration shows how strongly something is felt: huge love, deep guilt or great sorrow. Hyperbole can make a line dramatic, funny or unforgettable. It works best when the feeling is real and the exaggeration is clearly passionate or playful, so it does not sound false. Overusing it can make a poem sound melodramatic.
 
 **Example:** "Till a' the seas gang dry, my dear, / And the rocks melt wi' the sun" (Robert Burns, "A Red, Red Rose"). The speaker promises love that lasts until the seas dry up and the rocks melt, an obvious exaggeration.
+
+**Origin:** From Greek "hyperbole", "excess": "hyper" (over) and "ballein" (to throw).
 
 ### What is understatement? {#understatement}
 
@@ -325,11 +401,15 @@ Litotes is a kind of understatement that makes a point by denying the opposite. 
 
 **Example:** "And he nas nat right fat, I undertake" (Geoffrey Chaucer, "The General Prologue," *The Canterbury Tales*). "Nas nat right fat" means "was not very fat," a mild way of saying the Clerk was thin.
 
+**Origin:** From Greek "litotes", "plainness", from "litos" (plain or small).
+
 ### What is irony? {#irony}
 
 Irony is a gap between what is said or expected and what is really true. There are three main kinds. In verbal irony, a speaker says the opposite of what they mean. In situational irony, what happens is the opposite of what we expect. In dramatic irony, the reader knows something the speaker does not. Irony adds depth, humor or sadness, because it makes the reader look twice at what is being said.
 
 **Example:** "Water, water, every where, / And all the boards did shrink; / Water, water, every where, / Nor any drop to drink." (Samuel Taylor Coleridge, "The Rime of the Ancient Mariner"). Sailors are surrounded by sea but cannot drink it, which is situational irony.
+
+**Origin:** From Greek "eironeia", "pretended ignorance".
 
 ### What is a paradox? {#paradox}
 
@@ -337,11 +417,15 @@ A paradox is a statement that seems to contradict itself but contains a deeper t
 
 **Example:** "One short sleep past, we wake eternally, / And death shall be no more; Death, thou shalt die." (John Donne, "Death, be not proud"). Death itself will die, a paradox that expresses the poet's faith.
 
+**Origin:** From Greek "paradoxos": "para" (against) and "doxa" (opinion).
+
 ### What is an oxymoron? {#oxymoron}
 
 An oxymoron joins two words with opposite meanings in a single phrase, like "bittersweet," "deafening silence" or "living death." The contradiction is deliberate and often expresses a mixed or conflicted feeling that one word cannot capture. Oxymorons are short and striking, so they stay in the mind. They are smaller than paradoxes: an oxymoron is a pair of words, while a paradox is a whole statement. Use an oxymoron when a feeling is two things at once.
 
 **Example:** "No light, but rather darkness visible" (John Milton, "Paradise Lost"). "Darkness visible" joins two opposite ideas in one phrase.
+
+**Origin:** From Greek "oxymoron": "oxys" (sharp) and "moros" (dull). The word is itself an oxymoron.
 
 ### What is metonymy? {#metonymy}
 
@@ -349,11 +433,15 @@ Metonymy replaces the name of something with the name of something closely linke
 
 **Example:** "Sceptre and Crown / Must tumble down, / And in the dust be equal made / With the poor crooked scythe and spade." (James Shirley, "The Glories of Our Blood and State"). "Sceptre and Crown" stand for kings, and "scythe and spade" stand for ordinary workers.
 
+**Origin:** From Greek "metonymia", "a change of name": "meta" (change) and "onoma" (name).
+
 ### What is synecdoche? {#synecdoche}
 
 Synecdoche uses a part of something to stand for the whole, or the whole to stand for a part. "All hands on deck" means all the sailors, not just their hands. "Wheels" can mean a car. It focuses the reader's attention on one detail that carries the larger meaning, and it can make a scene feel vivid or personal. Synecdoche is a close relative of metonymy: it works through a part-whole link, while metonymy works through a wider association.
 
 **Example:** "So long as men can breathe, or eyes can see, / So long lives this, and this gives life to thee." (William Shakespeare, Sonnet 18). "Eyes" stands for the people who will read the poem.
+
+**Origin:** From Greek "synekdoche", "a taking together".
 
 ### What is symbolism? {#symbolism}
 
@@ -361,11 +449,15 @@ Symbolism is the use of an object, image or action to stand for a larger idea. A
 
 **Example:** "O Rose, thou art sick! / The invisible worm," (William Blake, "The Sick Rose"). The rose and the worm can be read as symbols of love and a hidden, destructive force.
 
+**Origin:** From Greek "symbolon", "a token or sign".
+
 ### What is an allegory? {#allegory}
 
 An allegory is a story or poem in which characters, places and events stand for deeper ideas, often about morality, politics or religion. The surface story is complete on its own, but the real meaning lies underneath. Allegory lets a poet discuss large or sensitive ideas in narrative form. It is wider than symbolism: a symbol can be one image, while an allegory builds a whole story. Famous examples include "The Pilgrim's Progress" and "Animal Farm."
 
 **Example:** "I was angry with my friend: / I told my wrath, my wrath did end." (William Blake, "A Poison Tree"). The poem is often read as a short allegory about how hidden anger grows.
+
+**Origin:** From Greek "allegoria", "speaking otherwise": "allos" (other) and "agoreuein" (to speak).
 
 ### What is an allusion? {#allusion}
 
@@ -373,11 +465,15 @@ An allusion is a brief reference to a well-known person, event, story or work, w
 
 **Example:** "Have sight of Proteus rising from the sea; / Or hear old Triton blow his wreathèd horn." (William Wordsworth, "The World Is Too Much with Us"). Proteus and Triton are Greek sea gods, an allusion to ancient myth.
 
+**Origin:** From Latin "allusio", "a playing with", from "alludere" (to play with).
+
 ### What is apostrophe in poetry? {#apostrophe}
 
 In poetry, apostrophe means speaking directly to someone or something that is absent, dead or unable to answer, such as a person, an object, nature or an idea. It often begins with "O" or "thou." Apostrophe creates intimacy and strong feeling, because the speaker seems to confide in or plead with the thing addressed. It is different from the punctuation mark of the same name. Use it when a poem feels like a spoken cry, prayer or tribute.
 
 **Example:** "Milton! thou shouldst be living at this hour" (William Wordsworth, "London, 1802"). The poet addresses John Milton, who had died long before.
+
+**Origin:** From Greek "apostrophe", "a turning away": "apo" (away) and "strephein" (to turn).
 
 ### What is an analogy? {#analogy}
 
@@ -385,17 +481,23 @@ An analogy explains one thing by comparing it to something else that is similar 
 
 **Example:** "A little learning is a dangerous thing; / Drink deep, or taste not the Pierian spring" (Alexander Pope, "An Essay on Criticism"). Learning is compared to drinking from a spring, so half-knowledge is risky.
 
+**Origin:** From Greek "analogia", "proportion".
+
 ### What is a conceit in poetry? {#conceit}
 
 A conceit is an extended, surprising comparison, often between two things that seem very different. The word is famous from "metaphysical" poets like John Donne, who linked love to compasses and fleas. A conceit keeps going, working out many points of the comparison with wit and logic. Its aim is to amaze the reader, then make the unlikely comparison feel true. It is more elaborate and intellectual than an ordinary metaphor.
 
 **Example:** "If they be two, they are two so / As stiff twin compasses are two;" (John Donne, "A Valediction: Forbidding Mourning"). Two lovers are compared to the two legs of a drawing compass.
 
+**Origin:** From the old English sense of "idea" or "concept", from "conceive". Italian poets called it "concetto".
+
 ### What is a euphemism? {#euphemism}
 
 A euphemism is a gentle or indirect word used in place of something harsh, rude or painful. We say "passed away" instead of "died," or "let go" instead of "fired." Euphemisms soften difficult subjects, and poets can use them to show tact, fear, politeness or avoidance. They can also create irony or humor when the soft word shows how uncomfortable the speaker is. Notice what a euphemism hides: it can tell you as much about the speaker as about the thing avoided.
 
 **Example:** "So live, that when thy summons comes to join / The innumerable caravan, which moves / To that mysterious realm" (William Cullen Bryant, "Thanatopsis"). Bryant speaks of death indirectly, as a "summons" and a "mysterious realm," which softens and distances it.
+
+**Origin:** From Greek "euphemia", "using good words": "eu" (good) and "pheme" (speech).
 
 ### What is a pun? {#pun}
 
@@ -409,11 +511,15 @@ Antithesis is the placing of opposite ideas next to each other in balanced words
 
 **Example:** "Better to reign in Hell than serve in Heaven." (John Milton, "Paradise Lost"). Satan sets "reign" against "serve" and "Hell" against "Heaven."
 
+**Origin:** From Greek "antithesis", "opposition": "anti" (against) and "tithenai" (to place).
+
 ### What is juxtaposition? {#juxtaposition}
 
 Juxtaposition is placing two things, images or ideas side by side so that their contrast or connection creates meaning. The poet does not explain the link, so the reader makes it. A beautiful image next to an ugly one, or an old idea next to a new one, can shock, move or surprise. Juxtaposition is common in modern poetry and in short forms like haiku. When you read two images together, ask what each one changes about the other.
 
 **Example:** "The apparition of these faces in the crowd; / Petals on a wet, black bough." (Ezra Pound, "In a Station of the Metro"). Faces in a crowd are set beside petals on a dark branch.
+
+**Origin:** From Latin "juxta" (next to) and French "position".
 
 ### What is synesthesia? {#synesthesia}
 
@@ -421,11 +527,15 @@ In writing, synesthesia means describing one sense in terms of another, such as 
 
 **Example:** "Il est des parfums frais comme des chairs d'enfants, / Doux comme les hautbois, verts comme les prairies" (Charles Baudelaire, "Correspondances"). In English: some scents are fresh as a child's skin, sweet as oboes, green as meadows. Smell is described through touch, sound and colour.
 
+**Origin:** From Greek "syn" (together) and "aisthesis" (sensation).
+
 ### What is anthropomorphism? {#anthropomorphism}
 
 Anthropomorphism gives human characteristics, such as speech, thought or emotions, to animals, gods, objects or forces that are not human. Where personification treats an idea as if it were a person, anthropomorphism usually shows non-human beings acting like people, such as talking animals. It appears in fables, fairy tales and children's poems, and also in serious poetry. It can bring humor, charm or a fresh view of human behavior, because we see ourselves through another creature.
 
 **Example:** "'The time has come,' the Walrus said, / 'To talk of many things:'" (Lewis Carroll, "The Walrus and the Carpenter"). A walrus speaks like a person.
+
+**Origin:** From Greek "anthropos" (human) and "morphe" (form).
 
 ### What is a zeugma? {#zeugma}
 
@@ -433,11 +543,15 @@ A zeugma is a device in which one word, usually a verb or adjective, governs two
 
 **Example:** "Dost sometimes counsel take—and sometimes tea." (Alexander Pope, "The Rape of the Lock"). "Take" works for both serious "counsel" and light "tea."
 
+**Origin:** From Greek "zeugma", "a yoke", from "zeugnynai" (to yoke).
+
 ### What is chiasmus? {#chiasmus}
 
 Chiasmus is a device in which two parts of a sentence mirror each other in reverse order, in an A-B-B-A pattern. The word comes from the Greek letter chi (X), a crossing shape. The reversal makes the line balanced, memorable and often witty, and it can make a point feel like a turn or a trap. Chiasmus is common in poetry, speeches and sayings. To find one, look for words or ideas that come back in the opposite order.
 
 **Example:** "Beauty is truth, truth beauty" (John Keats, "Ode on a Grecian Urn"). "Beauty" and "truth" swap places in the second half, an ABBA pattern.
+
+**Origin:** From Greek "chiasmos", named after the letter chi (X), which shows the crossing.
 
 ### What is parallelism? {#parallelism}
 
@@ -445,11 +559,15 @@ Parallelism is the use of the same grammatical pattern in two or more phrases, c
 
 **Example:** "Born but to die, and reasoning but to err" (Alexander Pope, "An Essay on Man"). Both halves follow the pattern "verb + but to + verb."
 
+**Origin:** From Greek "parallelos", "beside one another".
+
 ### What is pathetic fallacy? {#pathetic-fallacy}
 
 The pathetic fallacy is when a poet gives human emotions to nature, so the weather or landscape seems to reflect a mood. A storm may match anger, rain may match sorrow, and bright sun may match joy. The critic John Ruskin coined the term in 1856, originally as a criticism, but poets use it on purpose to set the mood and to show a character's feelings through the setting. It is a kind of personification applied to nature. Use it to let the setting carry the feeling.
 
 **Example:** "The sedge has wither'd from the Lake, / And no birds sing." (John Keats, "La Belle Dame sans Merci"). The bare, silent landscape mirrors the knight's sadness.
+
+**Origin:** The critic John Ruskin coined the phrase in 1856.
 
 ## Voice, mood and theme {#voice-mood-and-theme}
 
@@ -463,11 +581,15 @@ Imagery is language that appeals to the senses: sight, sound, smell, taste, touc
 
 **Example:** "To bend with apples the moss'd cottage-trees, / And fill all fruit with ripeness to the core" (John Keats, "To Autumn"). The lines let us see, and almost taste, the heavy fruit.
 
+**Origin:** From Latin "imago", "image".
+
 ### What is tone in poetry? {#tone}
 
 Tone is the poet's or speaker's attitude toward the subject or the reader. It can be playful, bitter, tender, angry, solemn or ironic. Tone comes from word choice, rhythm, imagery and what is left unsaid. It is different from mood: tone is the attitude in the writing, while mood is the feeling the reader gets. To find the tone, ask how the speaker feels about the subject and which words show it. A change in tone can reveal irony or inner conflict.
 
 **Example:** "The old Lie: Dulce et decorum est / Pro patria mori." (Wilfred Owen, "Dulce et Decorum Est"). Owen calls the Latin saying, "it is sweet and fitting to die for one's country," "the old Lie," a bitter, angry tone.
+
+**Origin:** From Greek "tonos", "stretching" or "pitch".
 
 ### What is mood in poetry? {#mood}
 
@@ -475,11 +597,15 @@ Mood is the feeling or atmosphere a poem creates in the reader, such as calm, fe
 
 **Example:** "Now fades the glimmering landscape on the sight, / And all the air a solemn stillness holds" (Thomas Gray, "Elegy Written in a Country Churchyard"). The fading light and stillness create a quiet, solemn mood.
 
+**Origin:** From Old English "mod", "mind" or "spirit".
+
 ### What is diction in poetry? {#diction}
 
 Diction is a poet's choice of words. It includes whether the words are simple or complex, formal or casual, old-fashioned or modern, and whether they sound gentle or harsh. Diction shapes tone, voice and meaning, because the words we choose tell the reader who is speaking and how they feel. Each word in a poem carries weight, so a small change can alter the feeling of a line. When you edit, ask whether each word is the most exact and fitting one.
 
 **Example:** "Over many a quaint and curious volume of forgotten lore" (Edgar Allan Poe, "The Raven"). The old-fashioned words "quaint" and "lore" give the poem a gothic, dreamlike tone.
+
+**Origin:** From Latin "dictio", "speaking", from "dicere" (to say).
 
 ### What is connotation? {#connotation}
 
@@ -487,11 +613,15 @@ Connotation is the feeling or association a word carries beyond its dictionary m
 
 **Example:** "Ah, distinctly I remember it was in the bleak December" (Edgar Allan Poe, "The Raven"). "Bleak" literally means bare and cold, but it also suggests loneliness and hopelessness.
 
+**Origin:** From Latin "con-" (together) and "notare" (to mark).
+
 ### What is denotation? {#denotation}
 
 Denotation is the literal, dictionary meaning of a word, without any feelings or associations attached. It is the plain, shared definition that everyone can agree on. Poets use denotation to be clear and exact, and they combine it with connotation to add depth. Knowing both helps you read closely: first ask what the word actually means, then ask what else it suggests. Looking up a word you think you know can reveal a meaning that changes a line.
 
 **Example:** "The woods are lovely, dark and deep, / But I have promises to keep" (Robert Frost, "Stopping by Woods on a Snowy Evening"). Literally, "dark" means without light and "deep" means far inward. The words also hint at mystery and rest, which is connotation.
+
+**Origin:** From Latin "denotare", "to mark out".
 
 ### What is voice in poetry? {#voice}
 
@@ -511,11 +641,15 @@ A persona is a character or mask that a poet adopts to speak in a poem. The word
 
 **Example:** "When my mother died I was very young, / And my father sold me while yet my tongue" (William Blake, "The Chimney Sweeper"). Blake speaks as a young chimney sweep.
 
+**Origin:** From Latin "persona", the mask an actor wore on stage.
+
 ### What is theme in poetry? {#theme}
 
 Theme is the central idea or message that runs through a poem. It is not the same as the topic: a topic might be "autumn," while a theme might be "time passes and beauty fades." A poem can have more than one theme, and readers may find different ones. To find a theme, look at repeated images, the title, the turning point and the ending. A theme is usually a statement about life, not just a one-word subject like "love."
 
 **Example:** "Two roads diverged in a yellow wood, / And sorry I could not travel both" (Robert Frost, "The Road Not Taken"). The poem explores choice, regret and the paths we do not take.
+
+**Origin:** From Greek "thema", "something set down".
 
 ### What is a motif? {#motif}
 
@@ -523,11 +657,15 @@ A motif is an image, word, sound or idea that appears again and again in a poem 
 
 **Example:** "sorrow for the lost Lenore— / For the rare and radiant maiden whom the angels name Lenore—" (Edgar Allan Poe, "The Raven"). The name "Lenore" keeps returning, tying the poem to grief.
 
+**Origin:** From French "motif", from Latin "movere" (to move).
+
 ### What is ambiguity? {#ambiguity}
 
 Ambiguity is when a word, line or poem can be understood in more than one way, and the poet allows the different readings to exist together. It is not the same as confusion: good ambiguity is deliberate and adds richness. A single image might suggest both hope and fear. Ambiguity invites the reader to think and return to the poem. When you read an ambiguous line, try holding both interpretations at once rather than choosing only one.
 
 **Example:** "Did he who made the Lamb make thee?" (William Blake, "The Tyger"). The question can suggest wonder at creation, but also fear of a creator who made something so dangerous.
+
+**Origin:** From Latin "ambiguus", "going both ways".
 
 ### What is foreshadowing? {#foreshadowing}
 
@@ -541,11 +679,15 @@ A dramatic monologue is a poem in which a single speaker talks to a silent liste
 
 **Example:** "That's my last Duchess painted on the wall, / Looking as if she were alive." (Robert Browning, "My Last Duchess"). The Duke speaks to a listener and slowly reveals his cold, controlling nature.
 
+**Origin:** "Monologue" is from Greek "monos" (alone) and "logos" (speech). Victorian poets, above all Robert Browning, made the form famous.
+
 ### What is bathos? {#bathos}
 
 Bathos is a sudden drop from a serious, grand or emotional tone to something ordinary or silly. Used on purpose, it creates humour, irony or satire by showing how small a "huge" problem really is. It is different from pathos, which stirs pity or sorrow. If bathos happens by accident, a serious poem can sound unintentionally funny. Alexander Pope used it brilliantly to mock vanity and trivial worries. To write it deliberately, build up the grand tone first so that the drop feels sharp.
 
 **Example:** "Not louder shrieks to pitying heaven are cast, / When husbands or when lapdogs breathe their last" (Alexander Pope, "The Rape of the Lock"). The line falls from husbands to lapdogs, a sudden drop into the trivial.
+
+**Origin:** From Greek "bathos", "depth". Alexander Pope used it in 1727 for a sudden fall from the noble to the silly.
 
 ## Style, syntax and word choice {#style-syntax-and-word-choice}
 
@@ -559,11 +701,15 @@ Epizeuxis is the repetition of a word or phrase straight away, with nothing in b
 
 **Example:** "Keeping time, time, time, / In a sort of Runic rhyme," (Edgar Allan Poe, "The Bells"). The repeated word "time" ticks like a beat.
 
+**Origin:** From Greek "epizeuxis", "a fastening together".
+
 ### What is dialect in poetry? {#dialect}
 
 Dialect is a way of speaking that belongs to a particular region, community or group, with its own words, spelling and grammar. Poets use dialect to give a speaker a real, local voice and to bring a place and its people to life. It can add warmth, humour and truth, and it can keep a way of speaking alive. Use it with respect and avoid mockery, and make sure readers can still follow it. A short note or glossary can help. Reading dialect aloud makes it much easier to understand.
 
 **Example:** "Wee, sleekit, cow'rin, tim'rous beastie, / O, what a panic's in thy breastie!" (Robert Burns, "To a Mouse"). Burns writes in Scots, so the words sound like the speech of his home.
+
+**Origin:** From Greek "dialektos", "way of speaking".
 
 ### What is inversion in poetry? {#inversion}
 
@@ -571,11 +717,15 @@ Inversion is a change in the normal word order of a sentence, usually to fit the
 
 **Example:** "Him the Almighty Power / Hurl'd headlong flaming from th' Ethereal Sky" (John Milton, "Paradise Lost"). The object "Him" comes first, before the subject and verb, which puts the focus on Satan's fall.
 
+**Origin:** From Latin "invertere", "to turn upside down".
+
 ### What is a neologism? {#neologism}
 
 A neologism is a new word that a writer invents, or a new meaning given to an existing word. Poets create neologisms to name a feeling or image that no current word captures, to be playful, or to help readers see something freshly. Some invented words fade, while others, like "chortle," which Lewis Carroll coined, enter everyday English. A neologism often borrows familiar sounds or word parts, so readers can guess its meaning. Use it sparingly, and let the surrounding lines help explain it.
 
 **Example:** "'Twas brillig, and the slithy toves / Did gyre and gimble in the wabe:" (Lewis Carroll, "Jabberwocky"). Words like "brillig" and "slithy" are invented, yet they sound meaningful.
+
+**Origin:** From Greek "neos" (new) and "logos" (word).
 
 ### What is ellipsis in poetry? {#ellipsis}
 
@@ -583,11 +733,15 @@ Ellipsis is the omission of words that the reader can easily understand from con
 
 **Example:** "Some say the world will end in fire, / Some say in ice." (Robert Frost, "Fire and Ice"). "Some say in ice" leaves out "the world will end," which we understand from the line before.
 
+**Origin:** From Greek "elleipsis", "a leaving out".
+
 ### What is asyndeton? {#asyndeton}
 
 Asyndeton means leaving out conjunctions such as "and" or "but" between words or clauses. The items are separated only by commas, which makes the lines move fast and feel urgent, sharp or breathless. It can suggest a mind racing or a list that seems to go on. The opposite device is polysyndeton. When you use asyndeton, notice how the speed changes the feeling: it often builds tension. Read your lines aloud to hear the quick rhythm.
 
 **Example:** "Deep into that darkness peering, long I stood there wondering, fearing, / Doubting, dreaming dreams no mortal ever dared to dream before" (Edgar Allan Poe, "The Raven"). No "and" slows the list of feelings.
+
+**Origin:** From Greek "asyndeton", "unconnected": "a" (not) and "syndein" (to bind).
 
 ### What is polysyndeton? {#polysyndeton}
 
@@ -595,11 +749,15 @@ Polysyndeton is the use of many conjunctions, usually "and," in close succession
 
 **Example:** "Yellow, and black, and pale, and hectic red, / Pestilence-stricken multitudes" (Percy Bysshe Shelley, "Ode to the West Wind"). The repeated "and" makes each colour count.
 
+**Origin:** From Greek "poly" (many) and "syndeton" (bound together).
+
 ### What is anadiplosis? {#anadiplosis}
 
 Anadiplosis repeats the last word of one clause or line at the beginning of the next. The repeated word works like a link in a chain, so each idea grows out of the one before it. It creates a sense of logical progress, build-up or inevitability. Poets use it to show cause and effect or an escalating feeling. It is a type of repetition, related to epistrophe and anaphora. Check that the repeated word truly carries the meaning forward and not just the sound.
 
 **Example:** "Pleasure might cause her read, reading might make her know, / Knowledge might pity win, and pity grace obtain" (Sir Philip Sidney, "Astrophil and Stella," Sonnet 1). The repeated word returns in a slightly changed form: "read" and "reading," "know" and "Knowledge" link one clause to the next like links in a chain.
+
+**Origin:** From Greek "anadiplosis", "a doubling": "ana" (again) and "diploun" (to double).
 
 ### What is a rhetorical question? {#rhetorical-question}
 
@@ -613,11 +771,15 @@ A colloquialism is an informal word or phrase from everyday speech, such as "kid
 
 **Example:** "Something there is that doesn't love a wall" (Robert Frost, "Mending Wall"). The plain, spoken rhythm sounds like a neighbour talking.
 
+**Origin:** From Latin "colloquium", "conversation".
+
 ### What is an archaism? {#archaism}
 
 An archaism is an old word, spelling or phrase that is no longer used in everyday speech, such as "thou," "hath," "quoth" or "ere." Poets use archaisms to create an old-world, solemn, magical or mysterious atmosphere, or to echo older poetry. They can add beauty and tradition, but too many make a poem feel stiff or hard to read. Use them only when the effect is deliberate and the setting supports it, as in fantasy or gothic writing.
 
 **Example:** "Quoth the Raven, 'Nevermore.'" (Edgar Allan Poe, "The Raven"). "Quoth" is an old word for "said," and it adds to the gothic mood.
+
+**Origin:** From Greek "archaios", "ancient", from "arche" (beginning).
 
 ### What is elision? {#elision}
 
@@ -625,11 +787,15 @@ Elision is the dropping of a sound or syllable from a word, usually marked with 
 
 **Example:** "The lowing herd wind slowly o'er the lea" (Thomas Gray, "Elegy Written in a Country Churchyard"). "O'er" counts as one syllable, not two.
 
+**Origin:** From Latin "elidere", "to strike out".
+
 ### What is an idiom? {#idiom}
 
 An idiom is a fixed expression whose meaning is different from the literal meaning of its words, such as "under the weather," "spill the beans" or "break the ice." Idioms belong to a language and its culture, so they can be hard for learners to guess. Poets use them to sound natural and playful, or they twist them to create fresh meaning. An idiom used straight feels casual, while an idiom taken literally can create humour or surprise. Be careful with idioms if you write for international readers.
 
 **Example:** "The best laid schemes o' Mice an' Men / Gang aft agley" (Robert Burns, "To a Mouse"). "Best laid schemes" later became the English idiom "the best-laid plans," meaning plans that go wrong.
+
+**Origin:** From Greek "idioma", "a personal or special phrase", from "idios" (one's own).
 
 ### What is a cliché? {#cliche}
 
@@ -637,14 +803,20 @@ A cliché is an expression that has been used so often that it has lost its fres
 
 **Example:** "Where'er you find 'the cooling western breeze,' / In the next line, it 'whispers through the trees';" (Alexander Pope, "An Essay on Criticism"). Pope mocks stock phrases that poets used so often that readers could guess the next line.
 
+**Origin:** From French "clicher", a printing term for making a metal plate that stamps the same page again and again.
+
 ### What is satire? {#satire}
 
 Satire uses humour, irony, exaggeration or ridicule to criticise people, customs or society, often to encourage change. It can be gentle and playful or sharp and bitter. Poets such as Alexander Pope and John Dryden were masters of verse satire. Satire often works by making the foolish seem grand or the grand seem foolish, as in a mock-epic. To write satire, choose a clear target, exaggerate the flaw and let the reader see the point without explaining the joke.
 
 **Example:** "What dire offence from am'rous causes springs, / What mighty contests rise from trivial things" (Alexander Pope, "The Rape of the Lock"). Pope treats a stolen lock of hair like an epic war.
 
+**Origin:** From Latin "satura", "a mixed dish" or "medley".
+
 ### What is an epigraph? {#epigraph}
 
 An epigraph is a short quotation, line or phrase placed at the beginning of a poem, book or chapter. It sets the theme, adds context or links the work to another writer or idea. A poet might choose an epigraph to honour a source, create contrast or hint at what comes next. It should be brief, credited and clearly connected to the work. Readers often look back at the epigraph after finishing the poem to see how it changes the meaning.
 
 **Example:** "Mistah Kurtz—he dead." (T. S. Eliot, "The Hollow Men"). This line, taken from Joseph Conrad's *Heart of Darkness*, opens the poem as its epigraph.
+
+**Origin:** From Greek "epigraphe", "inscription": "epi" (upon) and "graphein" (to write).
