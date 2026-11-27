@@ -28,3 +28,12 @@ I'm Skyler, a poet and an English Literature graduate. I explain each technique 
 .social svg { width: 22px; height: 22px; fill: currentColor; }
 </style>
 <div class="social">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Skyler",
+  "url": "https://writewithskyler.github.io"
+}
+</script>
